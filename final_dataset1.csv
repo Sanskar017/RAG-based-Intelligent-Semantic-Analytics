@@ -1,0 +1,3 @@
+product,issue,sentiment,date,rating,source_chunk
+because,unknown_issue,negative,,,csv_0_0
+Blackberry,unknown_issue,positive,,,summary_18.docx_1

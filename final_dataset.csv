@@ -1,0 +1,25 @@
+product,issue,sentiment,date,rating,source_chunk
+"if missing, return null.",design_issue,positive,,,csv_0_0
+I just won't buy a product like this again I bought some other cheap lame one,ONE,negative,,,csv_0_1
+CAN YOU BELIEVE THAT! ONE YEAR!!,ONE,positive,,,csv_1_1
+"Everybody was loving the case, and what they don't know is that it cost me 60",design_issue,negative,,,csv_3_3
+"Unlike Most of the Rechargeable Battery cases, PowerBear Lasts up to 2 whole",ONE,positive,,2.0,csv_8_2
+a+ recommend it to all,ONE,positive,,,csv_11_0
+"Easy to insert phone in and out Easy access to all buttons and features, without any loss of phone",design_issue,positive,,,csv_12_3
+griffin dual output unit generic (mA output and reliability at the top of the list!),ONE,negative,,,csv_18_0
+able to charge two phones at once in the car which is nice it works great I like I,ONE,positive,,,csv_23_1
+I usually leave my house around 7am and return at 10pm,ONE,positive,,,csv_24_3
+I love that it has two ports for my phone and ipod,design_issue,negative,,,csv_26_0
+0,design_issue,positive,,1.0,summary_1.docx_0
+Also it is build in a super STRONG manner and even though I dropped my phone,design_issue,positive,,,summary_15.docx_2
+It was brand new and worked perfectly It worked great for the first couple of weeks then it just stopped,design_issue,positive,,,summary_18.docx_2
+I would recommend this charger for the Samsung Galaxy S4,ONE,positive,,,summary_19.docx_2
+htc evo cover,htc evo cover,positive,,3.0,summary_3.docx_0
+"Answer only the product ID. If missing, return null.",ONE,positive,,,summary_5.docx_1
+They really need to start making these chargers better. Most chargers would have broken by now Answer,design_issue,negative,,,report_1.pdf_3
+id=0,design_issue performance_issue usability_issue durability_issue unexpected_behavior no,positive,,,report_14.pdf_2
+"The reviewer summarized their experience as ""Very good charger",ONE,positive,,,report_17.pdf_3
+I got this cord thru amazon for a fraction of the price I usually pay for the junk at,ONE,positive,,2.0,report_19.pdf_5
+cc Reviewer ID: A2C9H5QRLXXICT,design_issue,positive,,,report_3.pdf_2
+It does NOT fall out but if you wiggle it just right it disconnects the charge,ONE,negative,,,report_3.pdf_4
+"Easy access to all buttons and features, without any loss of phone reception",ONE,positive,,,report_6.pdf_6

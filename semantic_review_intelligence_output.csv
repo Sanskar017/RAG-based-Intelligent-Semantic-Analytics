@@ -1,0 +1,1121 @@
+review_text,sentiment,issue_type,keywords,severity,source,chunk_id
+They look good and stick good! I just don't like the rounded shape because I was always bumping it and Siri kept popping up and it was irritating,negative,design_issue,"bumping, don, good, irritating, just",high,csv,csv_0_1
+I just won't buy a product like this again,negative,no_issue,"buy, just, like, product, won",medium,csv,csv_0_2
+These stickers work like the review says they do,positive,no_issue,"like, review, says, stickers, work",low,csv,csv_1_2
+They stick on great and they stay on the phone,positive,no_issue,"great, phone, stay, stick",low,csv,csv_1_3
+They are super stylish and I can share them with my sister,positive,design_issue,"share, sister, stylish, super",low,csv,csv_1_4
+These are awesome and make my phone look so stylish! I have only used one so far and have had it on for almost a year! CAN YOU BELIEVE THAT! ONE YEAR!! Great quality!,positive,design_issue,"awesome, believe, far, great, year",low,csv,csv_2_1
+Item arrived in great time and was in perfect condition,positive,no_issue,"arrived, condition, great, item, perfect",low,csv,csv_3_1
+"However, I ordered these buttons because they were a great deal and included a FREE screen protector",negative,design_issue,"buttons, deal, free, great, included",high,csv,csv_3_2
+"Though its not a big deal, it would've been nice to get it since they claim it comes with one",positive,design_issue,"big, claim, comes, deal, nice",low,csv,csv_3_4
+leopard home button sticker for iphone 4s,negative,design_issue,"4s, button, home, iphone, leopard",high,csv,csv_4_0
+"awesome! stays on, and looks great",positive,no_issue,"awesome, great, looks, stays",low,csv,csv_4_1
+can be used on multiple apple products,positive,performance_issue,"apple, multiple, products, used",low,csv,csv_4_2
+"especially having nails, it helps to have an elevated key",positive,no_issue,"elevated, especially, having, helps, key",low,csv,csv_4_3
+These make using the home button easy,positive,usability_issue,"button, easy, home, make, using",low,csv,csv_5_1
+My daughter and I both like them,positive,design_issue,"daughter, like",low,csv,csv_5_2
+I would purchase them again,positive,no_issue,purchase,low,csv,csv_5_3
+It doesn't come unstuck and its cute! People ask where I got them from & it's great when driving,positive,design_issue,"ask, come, cute, doesn, driving",low,csv,csv_6_5
+it worked for the first week then it only charge my phone to 20%,negative,no_issue,"20, charge, phone, week, worked",medium,csv,csv_7_1
+it is a waste of money,negative,no_issue,"money, waste",medium,csv,csv_7_2
+Protects phone all around with good access to buttons,positive,no_issue,"access, buttons, good, phone, protects",low,csv,csv_8_2
+Battery charges with full battery lasts me a full day,negative,performance_issue,"battery, charges, day, lasts",high,csv,csv_8_3
+I usually leave my house around 7am and return at 10pm,negative,no_issue,"10pm, 7am, house, leave, return",medium,csv,csv_8_4
+I'm glad that it lasts from start to end,positive,no_issue,"end, glad, lasts, start",low,csv,csv_8_5
+This is a fantastic case,positive,no_issue,"case, fantastic",low,csv,csv_9_1
+Very stylish and protects my phone,positive,design_issue,"phone, protects, stylish",low,csv,csv_9_2
+"Easy access to all buttons and features, without any loss of phone reception",positive,usability_issue,"access, buttons, easy, features, loss",low,csv,csv_9_3
+"But most importantly, it double power, just as promised",positive,performance_issue,"double, importantly, just, power, promised",low,csv,csv_9_4
+this case fits perfectly on the s4 and keeps me powerd all day I can't complain! a+ recommend it to all,positive,performance_issue,"case, complain, day, fits, keeps",low,csv,csv_10_1
+This is the first battery case I have had for my Galaxy S4,negative,performance_issue,"battery, case, galaxy, s4",high,csv,csv_11_1
+"The S4 fits very well, is slim and doesn't add much weight to the Galaxy S4",negative,performance_issue,"add, doesn, fits, galaxy, s4",high,csv,csv_11_2
+It doubles the battery life,positive,performance_issue,"battery, doubles, life",low,csv,csv_11_3
+"You can charge either the battery, the phone or both",negative,performance_issue,"battery, charge, phone",high,csv,csv_11_4
+There is a handy on-off switch with leds to indicate the level of charge,negative,performance_issue,"charge, handy, indicate, leds, level",high,csv,csv_11_5
+The battery case came on time and was packaged well,positive,performance_issue,"battery, came, case, packaged, time",low,csv,csv_11_6
+Absolutely love the case !!,positive,no_issue,"absolutely, case, love",low,csv,csv_12_0
+"It's very  sturdily built,and provides lots of boost",positive,durability_issue,"boost, built, lots, provides, sturdily",low,csv,csv_12_2
+It does exactly what it's supposed too,positive,performance_issue,"does, exactly, supposed",low,csv,csv_12_3
+Easy to insert phone in and out,negative,usability_issue,"easy, insert, phone",high,csv,csv_12_4
+Definitely a 5 star experience,positive,unexpected_behavior,"definitely, experience, star",low,csv,csv_12_5
+Don't know what I would do without this case LOVE LOVE LOVE it,positive,design_issue,"case, don, know, love",low,csv,csv_12_6
+Best Rechargeable Battery Case on the Market!!!!!!!!!! A++++++++,positive,performance_issue,"battery, best, case, market, rechargeable",low,csv,csv_13_0
+"Unlike Most of the Rechargeable Battery cases, PowerBear Lasts up to 2 whole days",negative,performance_issue,"battery, cases, days, lasts, powerbear",high,csv,csv_13_1
+"It doesn't heat up like most of the other ones, and I was completely fascinated by the ultra light and sleek design for the case",positive,performance_issue,"case, completely, design, doesn, fascinated",low,csv,csv_13_2
+"Before I was using the Mophie case but I couldn't wear it often because it was like having a hot brick in your pocket, Hence I had to always leave it at home",negative,design_issue,"brick, case, couldn, having, home",high,csv,csv_13_3
+"On the contrary, with PowerBear, I never take it off because I can't even tell the difference",negative,performance_issue,"contrary, difference, powerbear, tell",high,csv,csv_13_4
+"Also it is build in a super STRONG manner and even though I dropped my phone a few times, its shock resistant technology won't let a single thing happen to the case or the phone",positive,durability_issue,"build, case, dropped, happen, phone",low,csv,csv_13_5
+"The PowerBear case became an extension to my phone that I never have to take off because when I charge it at night, it charges both my phone and the case, and I have battery life for more than two days",negative,performance_issue,"battery, case, charge, charges, phone",high,csv,csv_13_6
+"I was also shocked to hear all the positive compliments I was hearing from people at my job, fitness center, and throughout the community",positive,no_issue,"center, community, compliments, fitness, hear",low,csv,csv_13_7
+"Everybody was loving the case, and what they don't know is that it cost  me 60 % CHEAPER then all the other brand",positive,no_issue,"60, brand, case, cheaper, cost",low,csv,csv_13_8
+"This is the best purchase I've made on the internet, and I am going to buy more for my family in time for the Holidays",positive,no_issue,"best, buy, family, going, holidays",low,csv,csv_13_9
+"I needed a phone case for myself and my two sons, but I also needed new replacement batteries",negative,durability_issue,"batteries, case, needed, new, phone",high,csv,csv_14_2
+"Now this isn't the case, since I got both in one",negative,usability_issue,"case, got, isn",high,csv,csv_14_3
+"When there is no outlets, or chargers near by its Powerbear to the rescue! Ordered one for my husband, and myself",negative,performance_issue,"chargers, husband, near, ordered, outlets",high,csv,csv_15_1
+"Doesn't heat up like crazy like the other ones I got, and cheaper too! Its definetly the best power case for the S4 you can get, thats why I got one for me and my wife",positive,performance_issue,"best, case, cheaper, got, like",low,csv,csv_16_2
+I wonder why its called power bear,negative,performance_issue,"bear, called, power, wonder",high,csv,csv_16_3
+Works like the Expensive Version,positive,performance_issue,"expensive, like, version, works",low,csv,csv_17_1
+"Surprisingly, this inexpensive version works just as well and just as reliably as the expensive variety",positive,no_issue,"expensive, inexpensive, just, reliably, surprisingly",low,csv,csv_17_2
+It has been working for me for months now,negative,no_issue,"months, working",medium,csv,csv_17_3
+I have tested this against the griffin dual output unit,negative,performance_issue,"dual, griffin, output, tested, unit",high,csv,csv_18_1
+I checked the charging current,negative,performance_issue,"charging, checked, current",high,csv,csv_18_2
+This unit was charging my galaxy note battery with 70 ma,negative,performance_issue,"70, battery, charging, galaxy, ma",high,csv,csv_18_3
+Griffin was charging with 40 ma! And the griffin was 4 times more expensive,negative,performance_issue,"40, charging, expensive, griffin, ma",high,csv,csv_18_4
+I have not used these for very long,negative,durability_issue,"long, used",high,csv,csv_18_5
+"I bought 15 of them, because they are so cheap and because they actually do seem to provide high current",negative,performance_issue,"15, actually, bought, cheap, current",high,csv,csv_18_6
+No idea how long they last,negative,unexpected_behavior,"idea, long",high,csv,csv_18_7
+I assume they will work fine,positive,no_issue,"assume, fine, work",low,csv,csv_18_8
+I have not been using them much,negative,no_issue,using,medium,csv,csv_18_9
+"I did the testing , just to stock up on a high current charger",negative,performance_issue,"charger, current, did, high, just",high,csv,csv_18_10
+This passed and I stocked up,positive,no_issue,"passed, stocked",low,csv,csv_18_11
+It worked great for the first couple of weeks then it just stopped completely,negative,no_issue,"completely, couple, great, just, stopped",medium,csv,csv_19_1
+so basically a small waste of money,negative,usability_issue,"basically, money, small, waste",high,csv,csv_19_3
+I love that it has two ports for my phone and ipod,positive,usability_issue,"ipod, love, phone, ports",low,csv,csv_20_1
+Who wants to be putting too many things in one socket,negative,usability_issue,"putting, socket, things, wants",high,csv,csv_20_2
+Sleek and convenient to store and I just love it,positive,design_issue,"convenient, just, love, sleek, store",low,csv,csv_20_3
+"just what you need, I am always having to charge my phone and then find I have another item to charge also",negative,performance_issue,"charge, having, item, just, need",high,csv,csv_21_1
+"does not have the need amps to charge things like ipads, or hp touchpads",negative,performance_issue,"amps, charge, does, hp, ipads",high,csv,csv_22_1
+but its super small and compact,positive,usability_issue,"compact, small, super",low,csv,csv_22_2
+I like the fact they light up,positive,no_issue,"fact, light, like",low,csv,csv_23_0
+"They are nothing special for sure, but it's nice that you can tell when it is powered up by the led that glows in it",positive,usability_issue,"glows, led, nice, powered, special",low,csv,csv_23_2
+able to charge two phones at once in the car which is nice,positive,performance_issue,"able, car, charge, nice, phones",low,csv,csv_23_3
+Have more than one vehicle so I keep more than one of these in each,negative,usability_issue,vehicle,high,csv,csv_24_2
+"Nothing more frustrating than finding all of a sudden one quits working, and you have no way to recharge your phone",negative,unexpected_behavior,"finding, frustrating, phone, quits, recharge",high,csv,csv_24_3
+That is always when you need it most,positive,unexpected_behavior,need,low,csv,csv_24_4
+This one works well for any of my products,positive,no_issue,"products, works",low,csv,csv_24_5
+I bought this a little skeptical,negative,no_issue,"bought, little, skeptical",medium,csv,csv_25_1
+After I tried it I bought two more,negative,no_issue,"bought, tried",medium,csv,csv_25_2
+It works great and so far it has lasted for about 3 months,positive,no_issue,"far, great, lasted, months, works",low,csv,csv_25_3
+If that changes I will update this review,negative,no_issue,"changes, review, update",medium,csv,csv_25_4
+This doesn't work with my iPad,negative,no_issue,"doesn, ipad, work",medium,csv,csv_26_0
+I am disappointed that the 1A didn't work with my iPad,negative,no_issue,"1a, didn, disappointed, ipad, work",medium,csv,csv_26_2
+That's what I get for buying a cheap adapter,negative,performance_issue,"adapter, buying, cheap",high,csv,csv_26_3
+Solid Charger but RF noisy,negative,performance_issue,"charger, noisy, rf, solid",high,csv,csv_27_0
+This is a nice charger but you can tell it was made cheaply in China,negative,performance_issue,"charger, cheaply, china, nice, tell",high,csv,csv_27_1
+"When it is charging the phone, the car radio gets LOTS of static",negative,performance_issue,"car, charging, gets, lots, phone",high,csv,csv_27_2
+Not so much that I have to stop charging but like when you are near power lines and the radio station is far away,negative,performance_issue,"away, charging, far, like, lines",high,csv,csv_27_3
+"I gave it 4 stars because it works fine for me, but if you listen to the radio, you might consider it is more like 2 or 3 stars",positive,no_issue,"consider, fine, gave, like, stars",low,csv,csv_27_5
+After a week only one side works,negative,unexpected_behavior,"week, works",high,csv,csv_28_1
+Yo get exactly what you order in a timely fashion,positive,no_issue,"exactly, fashion, order, timely, yo",low,csv,csv_29_1
+And the item is just as described,positive,usability_issue,"described, item, just",low,csv,csv_29_2
+Great buy if you ask me,positive,no_issue,"ask, buy, great",low,csv,csv_29_3
+USB slots in a blue light that never quits,positive,unexpected_behavior,"blue, light, quits, slots, usb",low,csv,csv_30_0
+This is a terribly awesome product in my Subaru's console,positive,usability_issue,"awesome, console, product, subaru, terribly",low,csv,csv_30_1
+"Passengers love it, I love it because it emits a blue glow, because it has held up to abuse over the years and performs like new",positive,no_issue,"abuse, blue, emits, glow, love",low,csv,csv_30_2
+I've bough a munch of different things like this over the years,positive,design_issue,"bough, different, like, munch, things",low,csv,csv_31_1
+"Most wouldn't stay in the jack, or would give out after a few days",negative,usability_issue,"days, jack, stay, wouldn",high,csv,csv_31_2
+"don't waste your money, pay more and buy one at Walgreen s",negative,no_issue,"buy, don, money, pay, walgreen",medium,csv,csv_32_0
+Only works one side at a time,negative,unexpected_behavior,"time, works",high,csv,csv_32_2
+"When you connect two cables, one side stop working and also overheated burning the fuses",negative,unexpected_behavior,"burning, cables, connect, fuses, overheated",high,csv,csv_32_3
+I purchased two of them and it's the same problem,negative,unexpected_behavior,"problem, purchased",high,csv,csv_32_4
+it works great i like i can charge two thing at the same now i dont have to wait for my to finish charging her phone,positive,no_issue,"charge, charging, dont, finish, great",low,csv,csv_33_1
+"this is a review by Jude Chukwuma Benyeogor ""jcb"" (id A2I7NEVKSJ5UWR) for product 6073894996",negative,no_issue,"6073894996, a2i7nevksj5uwr, benyeogor, chukwuma, id",medium,txt,review_1.txt_3
+"they basically said: It came at last, good looking and the price was good and i believe it is worth the time I waited for it to come to me good job
+
+they gave it like 4",positive,design_issue,"basically, believe, came, come, good",low,txt,review_1.txt_4
+"0 stars i guess, summary was something like ""good job""",positive,usability_issue,"good, guess, job, like, stars",low,txt,review_1.txt_5
+helpful votes?? 0 out of 0 lol,negative,usability_issue,"helpful, lol, votes",high,txt,review_1.txt_6
+"review was around 03 27, 2014 (unix 1395878400)",negative,no_issue,"03, 1395878400, 2014, 27, review",medium,txt,review_1.txt_7
+this is a review by pissed off (id A2B8HBZPIFYRV1) for product 6073894996,negative,no_issue,"6073894996, a2b8hbzpifyrv1, id, pissed, product",medium,txt,review_10.txt_3
+"they basically said: works great and charges ipads, tablets, smartphones as well as bluetooth speakers and headsets",positive,no_issue,"basically, bluetooth, charges, great, headsets",low,txt,review_10.txt_4
+I would recommend it to anyone looking for a universal car charger,positive,performance_issue,"car, charger, looking, recommend, universal",low,txt,review_10.txt_5
+they gave it like 4,positive,no_issue,"gave, like",low,txt,review_10.txt_6
+"0 stars i guess, summary was something like ""Good little charger""",positive,usability_issue,"charger, good, guess, like, little",low,txt,review_10.txt_7
+helpful votes?? 0 out of 0 lol,negative,usability_issue,"helpful, lol, votes",high,txt,review_10.txt_8
+"review was around 01 26, 2014 (unix 1390694400)",negative,no_issue,"01, 1390694400, 2014, 26, review",medium,txt,review_10.txt_9
+this is a review by PWB Esq (id A5A4374R8I7NB) for product 6073894996,negative,no_issue,"6073894996, a5a4374r8i7nb, esq, id, product",medium,txt,review_11.txt_3
+"they basically said: I could only give this USB car charger 2 stars because although it worked fine for about 3 months, it subsequently died on me",negative,performance_issue,"basically, car, charger, died, fine",high,txt,review_11.txt_4
+"Pros:-Has 2 USB ports for charging, one (the top) is 2",negative,performance_issue,"charging, ports, pros, usb",high,txt,review_11.txt_5
+"The bottom slot is lower, presumably 1 or 1",negative,performance_issue,"lower, presumably, slot",high,txt,review_11.txt_7
+-Fits well in my charging socket - holds tight,positive,no_issue,"charging, fits, holds, socket, tight",low,txt,review_11.txt_9
+I've had some that were loose in my charging socket,negative,unexpected_behavior,"charging, loose, socket, ve",high,txt,review_11.txt_10
+"-Works well to charge my iPhone in the top slot and the bottom slot works with most Android phones, except the very high end ones",positive,performance_issue,"android, charge, end, slot, works",low,txt,review_11.txt_11
+-Has a blue LED light to tell you it is on and ready to charge,positive,usability_issue,"blue, charge, led, light, ready",low,txt,review_11.txt_12
+-The USB sockets seem to be well made and tightly fit all my cables,positive,design_issue,"cables, fit, sockets, tightly, usb",low,txt,review_11.txt_13
+-It cost less than $2,negative,usability_issue,cost,high,txt,review_11.txt_15
+Cons:-It died on me after 3 months,negative,no_issue,"cons, died, months",medium,txt,review_11.txt_16
+I had really enjoyed using this USB charger,positive,no_issue,"charger, enjoyed, really, usb, using",low,txt,review_11.txt_17
+It rapidly charged my iPhone and worked well with charging the phones of my family and friends,positive,performance_issue,"charged, charging, family, friends, iphone",low,txt,review_11.txt_18
+"The two slot design makes this design very handy; with a 1 slot design, no one else can charge their device unless I remove my cord",positive,performance_issue,"charge, cord, design, device, slot",low,txt,review_11.txt_19
+"Of course, after this charger died, I had to go back to the 1 slot design I was using before",negative,performance_issue,"charger, course, design, died, slot",high,txt,review_11.txt_20
+"After 3 months, I began to notice the LED light flickering",positive,performance_issue,"began, flickering, led, light, months",low,txt,review_11.txt_21
+It was less than a week later that is quit working permanently,negative,unexpected_behavior,"later, permanently, quit, week, working",high,txt,review_11.txt_22
+"I'm not sure what the problem was - faulty wiring, bad design, I guess I'll never know",negative,unexpected_behavior,"bad, design, faulty, guess, know",high,txt,review_11.txt_23
+"I thought about getting another since they are so cheap, but then I thought better of it",negative,design_issue,"better, cheap, getting, thought",high,txt,review_11.txt_24
+Maybe they are so cheap because they are simply disposable after a short period of time,negative,durability_issue,"cheap, disposable, maybe, period, short",high,txt,review_11.txt_25
+"For whatever reason, it died and I was forced to look for another 2 slot design - I haven't found one in my price range yet",negative,performance_issue,"design, died, forced, haven, look",high,txt,review_11.txt_26
+they gave it like 2,positive,no_issue,"gave, like",low,txt,review_11.txt_27
+"0 stars i guess, summary was something like ""Works Fine, But It Died On ME""",negative,unexpected_behavior,"died, fine, guess, like, stars",high,txt,review_11.txt_28
+helpful votes?? 1 out of 1 lol,negative,usability_issue,"helpful, lol, votes",high,txt,review_11.txt_29
+"review was around 06 25, 2012 (unix 1340582400)",negative,no_issue,"06, 1340582400, 2012, 25, review",medium,txt,review_11.txt_30
+this is a review by R,positive,no_issue,review,low,txt,review_12.txt_3
+Baker (id A1OWZHEQ5UCSAN) for product 6073894996,negative,no_issue,"6073894996, a1owzheq5ucsan, baker, id, product",medium,txt,review_12.txt_4
+"they basically said: This charger works great and is short, unlike most chargers",negative,performance_issue,"basically, charger, chargers, great, said",high,txt,review_12.txt_5
+It does a great job with charging both my phone and my GPS when I am in the car,positive,performance_issue,"car, charging, does, gps, great",low,txt,review_12.txt_6
+Great value and easy on the wallet,positive,no_issue,"easy, great, value, wallet",low,txt,review_12.txt_7
+they gave it like 5,positive,unexpected_behavior,"gave, like",low,txt,review_12.txt_8
+"0 stars i guess, summary was something like ""Great Dual Charger""",positive,usability_issue,"charger, dual, great, guess, like",low,txt,review_12.txt_9
+helpful votes?? 0 out of 0 lol,negative,usability_issue,"helpful, lol, votes",high,txt,review_12.txt_10
+"review was around 02 7, 2013 (unix 1360195200)",negative,no_issue,"02, 1360195200, 2013, review, unix",medium,txt,review_12.txt_11
+this is a review by Ronaldo (id A25TQLMIAPI1T6) for product 6073894996,negative,no_issue,"6073894996, a25tqlmiapi1t6, id, product, review",medium,txt,review_13.txt_3
+they basically said: I bought 2 of this and tried to test first,negative,performance_issue,"basically, bought, said, test, tried",high,txt,review_13.txt_4
+"after few minutes of charging, it felt hot",negative,performance_issue,"charging, felt, hot, minutes",high,txt,review_13.txt_7
+Pulled it out and the product smelled burnt,negative,performance_issue,"burnt, product, pulled, smelled",high,txt,review_13.txt_8
+Tried the other one too and same thing,negative,unexpected_behavior,"thing, tried",high,txt,review_13.txt_9
+"this one could be fire hazard or could potentially destroy the electrical system
+
+they gave it like 1",negative,unexpected_behavior,"destroy, electrical, gave, hazard, like",high,txt,review_13.txt_13
+"0 stars i guess, summary was something like ""Be careful""",negative,unexpected_behavior,"careful, guess, like, stars, summary",high,txt,review_13.txt_14
+helpful votes?? 0 out of 0 lol,negative,usability_issue,"helpful, lol, votes",high,txt,review_13.txt_15
+"review was around 06 22, 2014 (unix 1403395200)",negative,no_issue,"06, 1403395200, 2014, 22, review",medium,txt,review_13.txt_16
+"this is a review by ruthptb ""Ruth Root"" (id A382RYVVZOJ8PX) for product 6073894996",negative,no_issue,"6073894996, a382ryvvzoj8px, id, product, review",medium,txt,review_14.txt_3
+they basically said: This portable USB Port car charger is a must have for people on the go,negative,usability_issue,"basically, car, charger, people, port",high,txt,review_14.txt_4
+"Pair this with an extra or spare cord and you are good to go!
+
+they gave it like 5",positive,no_issue,"cord, extra, gave, good, like",low,txt,review_14.txt_5
+"0 stars i guess, summary was something like ""A must have for people on the go""",positive,usability_issue,"guess, like, people, stars, summary",low,txt,review_14.txt_6
+helpful votes?? 0 out of 1 lol,negative,usability_issue,"helpful, lol, votes",high,txt,review_14.txt_7
+"review was around 04 5, 2013 (unix 1365120000)",negative,no_issue,"04, 1365120000, 2013, review, unix",medium,txt,review_14.txt_8
+this is a review by Ryan (id A3GTTANAYUVSDY) for product 6073894996,negative,no_issue,"6073894996, a3gttanayuvsdy, id, product, review",medium,txt,review_15.txt_3
+"they basically said: I love the way it can charge 2 devices at once!  Seems to charge quicker without GPS on, with it on, it only holds the battery, but better than it dying!!!
+
+they gave it like 4",positive,performance_issue,"basically, battery, better, charge, devices",low,txt,review_15.txt_4
+"0 stars i guess, summary was something like ""Works best without location/GPS on device""",positive,usability_issue,"best, device, gps, guess, like",low,txt,review_15.txt_5
+helpful votes?? 0 out of 0 lol,negative,usability_issue,"helpful, lol, votes",high,txt,review_15.txt_6
+"review was around 05 23, 2014 (unix 1400803200)",negative,no_issue,"05, 1400803200, 2014, 23, review",medium,txt,review_15.txt_7
+this is a review by S,positive,no_issue,review,low,txt,review_16.txt_3
+"Coward ""MrsCoward"" (id A16EFGT2PLZT34) for product 6073894996",negative,no_issue,"6073894996, a16efgt2plzt34, coward, id, mrscoward",medium,txt,review_16.txt_4
+they basically said: Bought so we could charge to phones at the same time while in the car from the same port,negative,usability_issue,"basically, bought, car, charge, phones",high,txt,review_16.txt_5
+they gave it like 4,positive,no_issue,"gave, like",low,txt,review_16.txt_7
+"0 stars i guess, summary was something like ""Works""",positive,usability_issue,"guess, like, stars, summary, works",low,txt,review_16.txt_8
+helpful votes?? 0 out of 0 lol,negative,usability_issue,"helpful, lol, votes",high,txt,review_16.txt_9
+"review was around 09 4, 2013 (unix 1378252800)",negative,no_issue,"09, 1378252800, 2013, review, unix",medium,txt,review_16.txt_10
+this is a review by Tore (id A2Q7SZISE1RXQQ) for product 6073894996,negative,no_issue,"6073894996, a2q7szise1rxqq, id, product, review",medium,txt,review_17.txt_3
+they basically said: I received this product before I expected,negative,no_issue,"basically, expected, product, received, said",medium,txt,review_17.txt_4
+It looks pretty good and It works with my Iphone (3GS) and my phone (HTC Evo V 3D),positive,no_issue,"3d, 3gs, evo, good, htc",low,txt,review_17.txt_5
+"It is a good deal because It is not easy to find something like this for this price
+
+they gave it like 4",positive,no_issue,"deal, easy, gave, good, like",low,txt,review_17.txt_6
+"0 stars i guess, summary was something like ""Pretty good""",positive,usability_issue,"good, guess, like, pretty, stars",low,txt,review_17.txt_7
+helpful votes?? 0 out of 0 lol,negative,usability_issue,"helpful, lol, votes",high,txt,review_17.txt_8
+"review was around 10 18, 2012 (unix 1350518400)",negative,no_issue,"10, 1350518400, 18, 2012, review",medium,txt,review_17.txt_9
+this is a review by Voiceover Guy (id A8VI7KMUHI7ZH) for product 6073894996,negative,no_issue,"6073894996, a8vi7kmuhi7zh, guy, id, product",medium,txt,review_18.txt_3
+"they basically said: I have several of these, from various retailers, all the same, each made in some anonymous Chinese factory, all exactly alike",positive,unexpected_behavior,"alike, anonymous, basically, chinese, exactly",low,txt,review_18.txt_4
+"They really do work, and they do deliver 2",positive,no_issue,"deliver, really, work",low,txt,review_18.txt_6
+0 power as they say they will do,negative,unexpected_behavior,"power, say",high,txt,review_18.txt_8
+"You wouldn't expect much QC for a $2 electrical product, but they each work just fine",positive,performance_issue,"electrical, expect, fine, just, product",low,txt,review_18.txt_10
+"They don't last forever-- about a year or two of active daily use seems about par, then they suddenly die",negative,unexpected_behavior,"active, daily, die, don, forever",high,txt,review_18.txt_11
+So do have some replacements on hand,negative,durability_issue,"hand, replacements",high,txt,review_18.txt_12
+"At this price, no problem",positive,no_issue,"price, problem",low,txt,review_18.txt_13
+"Yes, they work with both my iPhone and iPad",positive,no_issue,"ipad, iphone, work, yes",low,txt,review_18.txt_14
+Also with every other USB device I've needed to charge,negative,performance_issue,"charge, device, needed, usb, ve",high,txt,review_18.txt_15
+The LED light that indicates you are plugged in correctly is very helpful,positive,performance_issue,"correctly, helpful, indicates, led, light",low,txt,review_18.txt_16
+These are great for rental cars and travel,positive,performance_issue,"cars, great, rental, travel",low,txt,review_18.txt_17
+"If you leave one behind, hey, it's only $2",negative,performance_issue,"hey, leave",high,txt,review_18.txt_18
+I'm totally pleased with these clever little gems,positive,no_issue,"clever, gems, little, pleased, totally",low,txt,review_18.txt_19
+"I wouldn't be without a couple, especially for travel",positive,usability_issue,"couple, especially, travel, wouldn",low,txt,review_18.txt_21
+they gave it like 5,positive,unexpected_behavior,"gave, like",low,txt,review_18.txt_24
+"0 stars i guess, summary was something like ""Great DC Charger, Works Great, $2 Value""",positive,performance_issue,"charger, dc, great, guess, like",low,txt,review_18.txt_25
+helpful votes?? 0 out of 0 lol,negative,usability_issue,"helpful, lol, votes",high,txt,review_18.txt_26
+"review was around 06 15, 2014 (unix 1402790400)",negative,no_issue,"06, 1402790400, 15, 2014, review",medium,txt,review_18.txt_27
+this is a review by Wei (id A3HWOEJ6BK7B7M) for product 6073894996,negative,no_issue,"6073894996, a3hwoej6bk7b7m, id, product, review",medium,txt,review_19.txt_3
+they basically said: good product at low price,positive,no_issue,"basically, good, low, price, product",low,txt,review_19.txt_4
+purchased this looking for a smaller charger and I love Griffin products,positive,performance_issue,"charger, griffin, looking, love, products",low,txt,review_19.txt_5
+"Free shipping just took a little longer
+
+they gave it like 5",negative,no_issue,"free, gave, just, like, little",medium,txt,review_19.txt_6
+"0 stars i guess, summary was something like ""good product at low price""",positive,usability_issue,"good, guess, like, low, price",low,txt,review_19.txt_7
+helpful votes?? 0 out of 0 lol,negative,usability_issue,"helpful, lol, votes",high,txt,review_19.txt_8
+"review was around 05 7, 2014 (unix 1399420800)",negative,no_issue,"05, 1399420800, 2014, review, unix",medium,txt,review_19.txt_9
+this is a review by Levi Bowen (id A30A04FS5YAES3) for product 6073894996,negative,no_issue,"6073894996, a30a04fs5yaes3, bowen, id, levi",medium,txt,review_2.txt_3
+they basically said: Didn't last very long,negative,no_issue,"basically, didn, long, said",medium,txt,review_2.txt_4
+Worked great when it worked but it is a cheap piece of plastic crap so I shouldn't have expected it to last,negative,no_issue,"cheap, crap, expected, great, worked",medium,txt,review_2.txt_5
+they gave it like 2,positive,no_issue,"gave, like",low,txt,review_2.txt_6
+"0 stars i guess, summary was something like ""Works for a while",negative,unexpected_behavior,"guess, like, stars, summary, works",high,txt,review_2.txt_7
+helpful votes?? 0 out of 0 lol,negative,usability_issue,"helpful, lol, votes",high,txt,review_2.txt_9
+"review was around 08 23, 2013 (unix 1377216000)",negative,no_issue,"08, 1377216000, 2013, 23, review",medium,txt,review_2.txt_10
+this is a review by Yeoman Johnson (id A347LTN4RU2FL1) for product 6073894996,negative,no_issue,"6073894996, a347ltn4ru2fl1, id, johnson, product",medium,txt,review_20.txt_3
+they basically said: I use this in my car to charge my phone and my iPod as needed,negative,usability_issue,"basically, car, charge, ipod, needed",high,txt,review_20.txt_4
+"It works well, but the bright blue light can be annoying when driving at night",negative,no_issue,"annoying, blue, bright, driving, light",medium,txt,review_20.txt_5
+"Overall, a very good deal",positive,no_issue,"deal, good, overall",low,txt,review_20.txt_6
+they gave it like 4,positive,no_issue,"gave, like",low,txt,review_20.txt_7
+"0 stars i guess, summary was something like ""Works as advertised""",negative,usability_issue,"advertised, guess, like, stars, summary",high,txt,review_20.txt_8
+helpful votes?? 0 out of 0 lol,negative,usability_issue,"helpful, lol, votes",high,txt,review_20.txt_9
+"review was around 01 29, 2013 (unix 1359417600)",negative,no_issue,"01, 1359417600, 2013, 29, review",medium,txt,review_20.txt_10
+this is a review by Allana (id A2G38P52ZF5TTH) for product 7532385086,negative,no_issue,"7532385086, a2g38p52zf5tth, allana, id, product",medium,txt,review_21.txt_3
+they basically said: I love this case! It's so pretty,positive,design_issue,"basically, case, love, pretty, said",low,txt,review_21.txt_4
+And I love the way the case feels to the touch because of the rubber,positive,no_issue,"case, feels, love, rubber, touch",low,txt,review_21.txt_5
+"Very happy!
+
+they gave it like 5",positive,no_issue,"gave, happy, like",low,txt,review_21.txt_6
+"0 stars i guess, summary was something like ""I recommend""",positive,usability_issue,"guess, like, recommend, stars, summary",low,txt,review_21.txt_7
+helpful votes?? 3 out of 3 lol,negative,usability_issue,"helpful, lol, votes",high,txt,review_21.txt_8
+"review was around 02 2, 2011 (unix 1296604800)",negative,no_issue,"02, 1296604800, 2011, review, unix",medium,txt,review_21.txt_9
+this is a review by Brittany (id A3Q6C95EFP4FEX) for product 7532385086,negative,no_issue,"7532385086, a3q6c95efp4fex, brittany, id, product",medium,txt,review_22.txt_3
+they basically said: The idea of the design is a sweet idea but it wears off as the paint is over the case and not under a sealant or anything,negative,design_issue,"basically, case, design, idea, paint",high,txt,review_22.txt_4
+It has a cool 3D effect but at the cost of the paint rubbing off,negative,design_issue,"3d, cool, cost, effect, paint",high,txt,review_22.txt_5
+It is quite pretty though,positive,design_issue,"pretty, quite",low,txt,review_22.txt_6
+they gave it like 3,positive,no_issue,"gave, like",low,txt,review_22.txt_7
+"0 stars i guess, summary was something like ""Nice""",positive,usability_issue,"guess, like, nice, stars, summary",low,txt,review_22.txt_8
+helpful votes?? 0 out of 0 lol,negative,usability_issue,"helpful, lol, votes",high,txt,review_22.txt_9
+"review was around 02 2, 2012 (unix 1328140800)",negative,no_issue,"02, 1328140800, 2012, review, unix",medium,txt,review_22.txt_10
+this is a review by C,positive,no_issue,review,low,txt,review_23.txt_3
+"Groves ""~The Connie"" (id A2GHDKZBYXGAPY) for product 7532385086",negative,no_issue,"7532385086, a2ghdkzbyxgapy, connie, groves, id",medium,txt,review_23.txt_4
+they basically said: I was worried about this order because the picture on the description page kept changing to a less-desireable green/orange cover,negative,design_issue,"basically, changing, cover, description, desireable",high,txt,review_23.txt_5
+"But alas, it came a day earlier than expected, and the beautiful pink product expected!  The ""rubberized"" cover feels a little greasy (like it was armor-all'd), but the design is gorgeous and a little 3D looking!
+
+they gave it like 5",positive,design_issue,"expected, like, little, looking, pink",low,txt,review_23.txt_6
+"0 stars i guess, summary was something like ""Perfect!""",positive,unexpected_behavior,"guess, like, perfect, stars, summary",low,txt,review_23.txt_7
+helpful votes?? 0 out of 0 lol,negative,usability_issue,"helpful, lol, votes",high,txt,review_23.txt_8
+"review was around 07 18, 2012 (unix 1342569600)",negative,no_issue,"07, 1342569600, 18, 2012, review",medium,txt,review_23.txt_9
+this is a review by Grandma in NH (id A2Y33PMFKII0VR) for product 7532385086,negative,no_issue,"7532385086, a2y33pmfkii0vr, grandma, id, nh",medium,txt,review_24.txt_3
+they basically said: Another pretty phone case that I really love,positive,design_issue,"basically, case, love, phone, pretty",low,txt,review_24.txt_4
+I have many as I love t o change them around,positive,design_issue,"change, love",low,txt,review_24.txt_5
+"thanks
+
+they gave it like 5",positive,no_issue,"gave, like, thanks",low,txt,review_24.txt_6
+"0 stars i guess, summary was something like ""Pretty""",positive,usability_issue,"guess, like, pretty, stars, summary",low,txt,review_24.txt_7
+helpful votes?? 0 out of 0 lol,negative,usability_issue,"helpful, lol, votes",high,txt,review_24.txt_8
+"review was around 02 15, 2013 (unix 1360886400)",negative,no_issue,"02, 1360886400, 15, 2013, review",medium,txt,review_24.txt_9
+this is a review by Krystal (id A3S8BPAUQQLDKU) for product 7532385086,negative,no_issue,"7532385086, a3s8bpauqqldku, id, krystal, product",medium,txt,review_25.txt_3
+"they basically said: The case is not white, its more of a silver",negative,design_issue,"basically, case, said, silver, white",high,txt,review_25.txt_4
+It's still a very pretty case- it fit my phone perfectly,positive,design_issue,"case, fit, perfectly, phone, pretty",low,txt,review_25.txt_5
+It took too long to arrive,negative,performance_issue,"arrive, long, took",high,txt,review_25.txt_6
+they gave it like 4,positive,no_issue,"gave, like",low,txt,review_25.txt_7
+"0 stars i guess, summary was something like ""Not what I expected",negative,usability_issue,"expected, guess, like, stars, summary",high,txt,review_25.txt_8
+helpful votes?? 0 out of 0 lol,negative,usability_issue,"helpful, lol, votes",high,txt,review_25.txt_10
+"review was around 12 8, 2012 (unix 1354924800)",negative,no_issue,"12, 1354924800, 2012, review, unix",medium,txt,review_25.txt_11
+this is a review by Lisa Hall (id AKUQOY3DJX96J) for product 7532385086,negative,no_issue,"7532385086, akuqoy3djx96j, hall, id, lisa",medium,txt,review_26.txt_3
+they basically said: Defintiely worth the price,positive,usability_issue,"basically, defintiely, price, said, worth",low,txt,review_26.txt_4
+Most cases are $15 and up especially at the cell phone stores,negative,performance_issue,"15, cases, cell, especially, phone",high,txt,review_26.txt_8
+"I can't believe the mark up on these things!
+
+they gave it like 4",positive,unexpected_behavior,"believe, gave, like, mark, things",low,txt,review_26.txt_9
+"0 stars i guess, summary was something like ""Worth the price""",positive,usability_issue,"guess, like, price, stars, summary",low,txt,review_26.txt_10
+helpful votes?? 0 out of 0 lol,negative,usability_issue,"helpful, lol, votes",high,txt,review_26.txt_11
+"review was around 12 28, 2012 (unix 1356652800)",negative,no_issue,"12, 1356652800, 2012, 28, review",medium,txt,review_26.txt_12
+this is a review by Mayra (id A2Y937AV46ULWQ) for product 6073894996,negative,no_issue,"6073894996, a2y937av46ulwq, id, mayra, product",medium,txt,review_3.txt_3
+"they basically said: excellent product, works great , have easy handling, and good quality as it is announced",positive,no_issue,"announced, basically, easy, excellent, good",low,txt,review_3.txt_4
+"reached as is shown time and in very good condition thank you very much for everything
+
+they gave it like 4",positive,no_issue,"condition, gave, good, like, reached",low,txt,review_3.txt_5
+"0 stars i guess, summary was something like ""good""",positive,usability_issue,"good, guess, like, stars, summary",low,txt,review_3.txt_6
+helpful votes?? 0 out of 0 lol,negative,usability_issue,"helpful, lol, votes",high,txt,review_3.txt_7
+"review was around 04 13, 2014 (unix 1397347200)",negative,no_issue,"04, 13, 1397347200, 2014, review",medium,txt,review_3.txt_8
+this is a review by Michael A,positive,no_issue,"michael, review",low,txt,review_4.txt_3
+"Rowley ""Nick Danger"" (id A2KP65JS3YY5VL) for product 6073894996",negative,no_issue,"6073894996, a2kp65js3yy5vl, danger, id, nick",medium,txt,review_4.txt_4
+they basically said: Purchased two and we put one in each car,negative,usability_issue,"basically, car, purchased, said",high,txt,review_4.txt_5
+Now we charge our ipad and iohone together,negative,performance_issue,"charge, iohone, ipad",high,txt,review_4.txt_6
+Can also use to power my Galaxy Note 2 or recharge other USB devices,negative,performance_issue,"devices, galaxy, note, power, recharge",high,txt,review_4.txt_7
+"If you have to think about it you need counseling
+
+they gave it like 5",negative,design_issue,"counseling, gave, like, need, think",high,txt,review_4.txt_8
+"0 stars i guess, summary was something like ""Works great",positive,usability_issue,"great, guess, like, stars, summary",low,txt,review_4.txt_9
+helpful votes?? 0 out of 0 lol,negative,usability_issue,"helpful, lol, votes",high,txt,review_4.txt_11
+"review was around 01 13, 2013 (unix 1358035200)",negative,no_issue,"01, 13, 1358035200, 2013, review",medium,txt,review_4.txt_12
+this is a review by M,positive,no_issue,review,low,txt,review_5.txt_3
+Johns (id A2L6BH090TX9O7) for product 6073894996,negative,no_issue,"6073894996, a2l6bh090tx9o7, id, johns, product",medium,txt,review_5.txt_4
+"they basically said: great charger for 2 devices and i haven't had any problems so far 3yrs now
+
+they gave it like 5",positive,performance_issue,"3yrs, basically, charger, devices, far",low,txt,review_5.txt_5
+"0 stars i guess, summary was something like ""Five Stars""",negative,unexpected_behavior,"guess, like, stars, summary",high,txt,review_5.txt_6
+helpful votes?? 0 out of 0 lol,negative,usability_issue,"helpful, lol, votes",high,txt,review_5.txt_7
+"review was around 08 2, 2013 (unix 1375401600)",negative,no_issue,"08, 1375401600, 2013, review, unix",medium,txt,review_5.txt_8
+this is a review by MS,positive,no_issue,"ms, review",low,txt,review_6.txt_3
+J (id ABDDX2PV61RMX) for product 6073894996,negative,no_issue,"6073894996, abddx2pv61rmx, id, product",medium,txt,review_6.txt_4
+they basically said: Purchased product about many a month ago,negative,no_issue,"ago, basically, month, product, purchased",medium,txt,review_6.txt_5
+Pros: Loved it work just fine!! Cool Blue light feature when you plug it into the lighter!! Can plug in two things at one time,positive,performance_issue,"blue, cool, feature, fine, plug",low,txt,review_6.txt_6
+"Con: Top clear piece came off easily overtime (I just put clear tape around the top) TOTAL: PROS:95% CONS:5%
+
+they gave it like 4",negative,no_issue,"95, came, clear, cons, easily",medium,txt,review_6.txt_10
+"0 stars i guess, summary was something like ""Dual USB Port Car Charger""",negative,usability_issue,"car, charger, dual, guess, like",high,txt,review_6.txt_11
+helpful votes?? 0 out of 0 lol,negative,usability_issue,"helpful, lol, votes",high,txt,review_6.txt_12
+"review was around 11 29, 2012 (unix 1354147200)",negative,no_issue,"11, 1354147200, 2012, 29, review",medium,txt,review_6.txt_13
+this is a review by Owner (id A9VL5ER8D0K2Z) for product 6073894996,negative,no_issue,"6073894996, a9vl5er8d0k2z, id, owner, product",medium,txt,review_7.txt_3
+they basically said: I bought this so that I could use and charge my Tab at the same time,negative,usability_issue,"basically, bought, charge, said, tab",high,txt,review_7.txt_4
+"My tab does not recognize the high power port and will either charge while off or use power while on, it will not charge while powered on",negative,performance_issue,"charge, does, high, port, power",high,txt,review_7.txt_5
+they gave it like 2,positive,no_issue,"gave, like",low,txt,review_7.txt_6
+"0 stars i guess, summary was something like ""not high power""",negative,unexpected_behavior,"guess, high, like, power, stars",high,txt,review_7.txt_7
+helpful votes?? 0 out of 0 lol,negative,usability_issue,"helpful, lol, votes",high,txt,review_7.txt_8
+"review was around 05 5, 2012 (unix 1336176000)",negative,no_issue,"05, 1336176000, 2012, review, unix",medium,txt,review_7.txt_9
+this is a review by Patricia Hagan (id A2NTV6MHFXP4M) for product 6073894996,negative,no_issue,"6073894996, a2ntv6mhfxp4m, hagan, id, patricia",medium,txt,review_8.txt_3
+they basically said: I bought this to charge my iphone and tablet in the car,negative,usability_issue,"basically, bought, car, charge, iphone",high,txt,review_8.txt_4
+works for iphone but not the tablet,negative,no_issue,"iphone, tablet, works",medium,txt,review_8.txt_5
+I needed a stronger charge for that but this is still great for both iphoe and ipod together,positive,performance_issue,"charge, great, iphoe, ipod, needed",low,txt,review_8.txt_6
+"it's cheap, small and compact
+
+they gave it like 5",negative,usability_issue,"cheap, compact, gave, like, small",high,txt,review_8.txt_7
+"0 stars i guess, summary was something like ""works""",positive,usability_issue,"guess, like, stars, summary, works",low,txt,review_8.txt_8
+helpful votes?? 0 out of 0 lol,negative,usability_issue,"helpful, lol, votes",high,txt,review_8.txt_9
+"review was around 02 8, 2013 (unix 1360281600)",negative,no_issue,"02, 1360281600, 2013, review, unix",medium,txt,review_8.txt_10
+this is a review by Paul Rowland (id A10W7D1W5M4CHE) for product 6073894996,negative,no_issue,"6073894996, a10w7d1w5m4che, id, paul, product",medium,txt,review_9.txt_3
+they basically said: Works great,positive,no_issue,"basically, great, said, works",low,txt,review_9.txt_4
+The blue led light is a nice touch in the car,positive,usability_issue,"blue, car, led, light, nice",low,txt,review_9.txt_5
+We charge a Samsung and Iphone using this outlet,negative,performance_issue,"charge, iphone, outlet, samsung, using",high,txt,review_9.txt_6
+they gave it like 5,positive,unexpected_behavior,"gave, like",low,txt,review_9.txt_8
+"0 stars i guess, summary was something like ""USB Outlet""",negative,usability_issue,"guess, like, outlet, stars, summary",high,txt,review_9.txt_9
+helpful votes?? 0 out of 0 lol,negative,usability_issue,"helpful, lol, votes",high,txt,review_9.txt_10
+"review was around 02 1, 2013 (unix 1359676800)",negative,no_issue,"02, 1359676800, 2013, review, unix",medium,txt,review_9.txt_11
+"Summary 1
+Reviewer: Pen (ID: AARIXIQYNH38W)
+Product ID: 7532385086
+
+This review highlights that the product was generally described as: This is a great case",positive,unexpected_behavior,"7532385086, aarixiqynh38w, case, id, product",low,docx,summary_1.docx_0
+It fit my phone perfectly and I still use it from time to time,positive,design_issue,"fit, perfectly, phone, time, use",low,docx,summary_1.docx_3
+"Would recommend
+
+Overall, the user rated the product 5",positive,no_issue,"overall, product, rated, recommend, user",low,docx,summary_1.docx_4
+"0 stars, indicating a positive experience",positive,usability_issue,"experience, indicating, positive, stars",low,docx,summary_1.docx_5
+"The summary provided by the reviewer was ""Great""",positive,no_issue,"great, provided, reviewer, summary",low,docx,summary_1.docx_6
+Helpfulness votes: 0 out of 0,positive,usability_issue,"helpfulness, votes",low,docx,summary_1.docx_7
+"Review Date: 05 31, 2013 (Unix: 1369958400)",negative,no_issue,"05, 1369958400, 2013, 31, date",medium,docx,summary_1.docx_8
+"Summary 10
+Reviewer: Kelly-Ann Johnson (ID: A3J38WFKNT2MFX)
+Product ID: 7887421268
+
+This review highlights that the product was generally described as: It looked like it was used! It was broken when it got to be the paint job was horrible",negative,durability_issue,"id, paint, product, review, reviewer",high,docx,summary_10.docx_0
+"I would never get it again
+
+Overall, the user rated the product 2",positive,no_issue,"overall, product, rated, user",low,docx,summary_10.docx_1
+"0 stars, indicating a negative experience",negative,design_issue,"experience, indicating, negative, stars",high,docx,summary_10.docx_2
+"The summary provided by the reviewer was ""Don't waste your money!""",positive,no_issue,"don, money, provided, reviewer, summary",low,docx,summary_10.docx_3
+Helpfulness votes: 0 out of 0,positive,usability_issue,"helpfulness, votes",low,docx,summary_10.docx_4
+"Review Date: 07 12, 2013 (Unix: 1373587200)",negative,no_issue,"07, 12, 1373587200, 2013, date",medium,docx,summary_10.docx_5
+"Summary 11
+Reviewer: kkkeown (ID: A17E8FKH09XAY2)
+Product ID: 7887421268
+
+This review highlights that the product was generally described as: This case for some reason is peeling, there isn't much left of the orginal skin, i  loved the case with pink being my favorite color but i wouldn't recommend this specific one for anyone",negative,design_issue,"11, case, id, product, specific",high,docx,summary_11.docx_0
+"Overall, the user rated the product 1",positive,usability_issue,"overall, product, rated, user",low,docx,summary_11.docx_1
+"0 stars, indicating a negative experience",negative,design_issue,"experience, indicating, negative, stars",high,docx,summary_11.docx_2
+"The summary provided by the reviewer was ""bad experience""",negative,usability_issue,"bad, experience, provided, reviewer, summary",high,docx,summary_11.docx_3
+Helpfulness votes: 0 out of 0,positive,usability_issue,"helpfulness, votes",low,docx,summary_11.docx_4
+"Review Date: 07 9, 2012 (Unix: 1341792000)",negative,no_issue,"07, 1341792000, 2012, date, review",medium,docx,summary_11.docx_5
+"Summary 12
+Reviewer: melisa lovewell (ID: A1C71EMHZRUWNT)
+Product ID: 7887421268
+
+This review highlights that the product was generally described as: Its rubberized doesn't look like it in the picture but it is It's really cute I love this case used it for awhile but I switch out cases like I do my shoes",positive,design_issue,"12, id, like, product, summary",low,docx,summary_12.docx_0
+"Overall, the user rated the product 5",positive,usability_issue,"overall, product, rated, user",low,docx,summary_12.docx_1
+"0 stars, indicating a positive experience",positive,usability_issue,"experience, indicating, positive, stars",low,docx,summary_12.docx_2
+"The summary provided by the reviewer was ""Love it""",positive,usability_issue,"love, provided, reviewer, summary",low,docx,summary_12.docx_3
+Helpfulness votes: 0 out of 0,positive,usability_issue,"helpfulness, votes",low,docx,summary_12.docx_4
+"Review Date: 02 19, 2013 (Unix: 1361232000)",negative,no_issue,"02, 1361232000, 19, 2013, date",medium,docx,summary_12.docx_5
+"Summary 13
+Reviewer: patricia t",positive,no_issue,"13, patricia, reviewer, summary",low,docx,summary_13.docx_0
+"""patricia tolman"" (ID: AJDJ6SQUDORP6)
+Product ID: 7887421268
+
+This review highlights that the product was generally described as: Received this in about a weeks time",positive,unexpected_behavior,"7887421268, ajdj6squdorp6, described, id, product",low,docx,summary_13.docx_1
+Very nice actually considering how cheap the price was,positive,no_issue,"actually, cheap, considering, nice, price",low,docx,summary_13.docx_2
+It's a pink/purple with black leopard spots and has a very nice feel to it,positive,design_issue,"black, feel, leopard, nice, pink",low,docx,summary_13.docx_3
+"I haven't tried to remove it yet, but hopefully it won't give me any trouble when I do want to change covers",positive,design_issue,"change, covers, haven, hopefully, remove",low,docx,summary_13.docx_4
+"Overall, the user rated the product 5",positive,usability_issue,"overall, product, rated, user",low,docx,summary_13.docx_5
+"0 stars, indicating a positive experience",positive,usability_issue,"experience, indicating, positive, stars",low,docx,summary_13.docx_6
+"The summary provided by the reviewer was ""good deal""",positive,no_issue,"deal, good, provided, reviewer, summary",low,docx,summary_13.docx_7
+Helpfulness votes: 0 out of 0,positive,usability_issue,"helpfulness, votes",low,docx,summary_13.docx_8
+"Review Date: 10 21, 2011 (Unix: 1319155200)",negative,no_issue,"10, 1319155200, 2011, 21, date",medium,docx,summary_13.docx_9
+"Summary 14
+Reviewer: Shelby Beaver (ID: A1Q8EBW9PB0H93)
+Product ID: 7887421268
+
+This review highlights that the product was generally described as: This case was by far the best case I bought for this phone",positive,no_issue,"14, case, id, product, reviewer",low,docx,summary_14.docx_0
+"It is very stylish and I received many compliments
+
+Overall, the user rated the product 5",positive,design_issue,"compliments, overall, product, rated, received",low,docx,summary_14.docx_1
+"0 stars, indicating a positive experience",positive,usability_issue,"experience, indicating, positive, stars",low,docx,summary_14.docx_2
+"The summary provided by the reviewer was ""stylish!""",positive,design_issue,"provided, reviewer, stylish, summary",low,docx,summary_14.docx_3
+Helpfulness votes: 0 out of 0,positive,usability_issue,"helpfulness, votes",low,docx,summary_14.docx_4
+"Review Date: 05 15, 2014 (Unix: 1400112000)",negative,no_issue,"05, 1400112000, 15, 2014, date",medium,docx,summary_14.docx_5
+"Summary 15
+Reviewer: Super Mom! ""GA Peach"" (ID: AY9MQ4QNQDU5B)
+Product ID: 7887421268
+
+This review highlights that the product was generally described as: This is the cutest case EVER!  I love it because it was easy to apply",positive,design_issue,"15, id, product, review, reviewer",low,docx,summary_15.docx_0
+"I had to switch from the rubber one because after so many uses, it wears out like the bottom hem of a sweater that has been stretched",negative,design_issue,"hem, like, rubber, stretched, sweater",high,docx,summary_15.docx_1
+This case keeps my phone intact and protected at the same time,positive,durability_issue,"case, intact, keeps, phone, protected",low,docx,summary_15.docx_2
+"WOO HOO!!
+
+Overall, the user rated the product 5",positive,no_issue,"hoo, overall, product, rated, user",low,docx,summary_15.docx_5
+"0 stars, indicating a positive experience",positive,usability_issue,"experience, indicating, positive, stars",low,docx,summary_15.docx_6
+"The summary provided by the reviewer was ""SOOO CUTE AND AFFORDABLE!""",positive,design_issue,"affordable, cute, provided, reviewer, sooo",low,docx,summary_15.docx_7
+Helpfulness votes: 2 out of 2,positive,usability_issue,"helpfulness, votes",low,docx,summary_15.docx_8
+"Review Date: 12 9, 2011 (Unix: 1323388800)",negative,no_issue,"12, 1323388800, 2011, date, review",medium,docx,summary_15.docx_9
+"Summary 16
+Reviewer: xsi user (ID: A3UFJDFSLI21AT)
+Product ID: 7887421268
+
+This review highlights that the product was generally described as: my daughter liked it for a few days and then i didnt see it anymore on the phone",negative,no_issue,"16, id, product, reviewer, summary",medium,docx,summary_16.docx_0
+Use your judgement on that one,negative,usability_issue,"judgement, use",high,docx,summary_16.docx_1
+"Overall, the user rated the product 5",positive,usability_issue,"overall, product, rated, user",low,docx,summary_16.docx_2
+"0 stars, indicating a positive experience",positive,usability_issue,"experience, indicating, positive, stars",low,docx,summary_16.docx_3
+"The summary provided by the reviewer was ""plastic with suede""",negative,usability_issue,"plastic, provided, reviewer, suede, summary",high,docx,summary_16.docx_4
+Helpfulness votes: 0 out of 0,positive,usability_issue,"helpfulness, votes",low,docx,summary_16.docx_5
+"Review Date: 02 20, 2013 (Unix: 1361318400)",negative,no_issue,"02, 1361318400, 20, 2013, date",medium,docx,summary_16.docx_6
+"Summary 17
+Reviewer: Ana (ID: A205L2POTHUAR7)
+Product ID: 8199406933
+
+This review highlights that the product was generally described as: very good charger, it woks fine, no complaints!!! I would recommend it!! It was good, but not using it anymore!
+
+Overall, the user rated the product 4",positive,no_issue,"17, good, id, product, user",low,docx,summary_17.docx_0
+"0 stars, indicating a positive experience",positive,usability_issue,"experience, indicating, positive, stars",low,docx,summary_17.docx_1
+"The summary provided by the reviewer was ""Good charger!""",positive,no_issue,"charger, good, provided, reviewer, summary",low,docx,summary_17.docx_2
+Helpfulness votes: 0 out of 0,positive,usability_issue,"helpfulness, votes",low,docx,summary_17.docx_3
+"Review Date: 11 11, 2013 (Unix: 1384128000)",negative,no_issue,"11, 1384128000, 2013, date, review",medium,docx,summary_17.docx_4
+"Summary 18
+Reviewer: Messy MakeUp Drawer ""Michelle MakeUp"" (ID: A2CCYTJQNBHFA0)
+Product ID: 8199406933
+
+This review highlights that the product was generally described as: This product arrived when promised and in the condition promised",negative,design_issue,"18, id, makeup, product, promised",high,docx,summary_18.docx_0
+It is a genuine Blackberry charger,positive,performance_issue,"blackberry, charger, genuine",low,docx,summary_18.docx_1
+It was brand new and worked perfectly,positive,no_issue,"brand, new, perfectly, worked",low,docx,summary_18.docx_2
+"For the price, I don't think you can ask for much more than that!
+
+Overall, the user rated the product 5",positive,no_issue,"ask, don, overall, price, product",low,docx,summary_18.docx_3
+"0 stars, indicating a positive experience",positive,usability_issue,"experience, indicating, positive, stars",low,docx,summary_18.docx_4
+"The summary provided by the reviewer was ""Great buy, great quality""",positive,no_issue,"buy, great, provided, quality, reviewer",low,docx,summary_18.docx_5
+Helpfulness votes: 0 out of 0,positive,usability_issue,"helpfulness, votes",low,docx,summary_18.docx_6
+"Review Date: 08 25, 2012 (Unix: 1345852800)",negative,no_issue,"08, 1345852800, 2012, 25, date",medium,docx,summary_18.docx_7
+"Summary 19
+Reviewer: Natica C",positive,usability_issue,"19, natica, reviewer, summary",low,docx,summary_19.docx_0
+"(ID: A1STLXG6FB22P2)
+Product ID: 8199406933
+
+This review highlights that the product was generally described as: Great product",positive,no_issue,"8199406933, a1stlxg6fb22p2, described, id, product",low,docx,summary_19.docx_1
+Use this with my Galaxy S4,negative,performance_issue,"galaxy, s4, use",high,docx,summary_19.docx_2
+At this price I bought 2 more,positive,no_issue,"bought, price",low,docx,summary_19.docx_3
+One for work and one to keep in the car incase I ever travel and forget my charger,positive,performance_issue,"car, charger, forget, incase, travel",low,docx,summary_19.docx_4
+"Overall, the user rated the product 5",positive,usability_issue,"overall, product, rated, user",low,docx,summary_19.docx_5
+"0 stars, indicating a positive experience",positive,usability_issue,"experience, indicating, positive, stars",low,docx,summary_19.docx_6
+"The summary provided by the reviewer was ""Great charger and great price""",positive,no_issue,"charger, great, price, provided, reviewer",low,docx,summary_19.docx_7
+Helpfulness votes: 0 out of 0,positive,usability_issue,"helpfulness, votes",low,docx,summary_19.docx_8
+"Review Date: 11 20, 2013 (Unix: 1384905600)",negative,no_issue,"11, 1384905600, 20, 2013, date",medium,docx,summary_19.docx_9
+"Summary 2
+Reviewer: Sunshine girl (ID: A11FEJGJ2YK25Z)
+Product ID: 7532385086
+
+This review highlights that the product was generally described as: Received this item very quickly",positive,no_issue,"7532385086, a11fejgj2yk25z, described, id, product",low,docx,summary_2.docx_0
+The design is even more vivid than expected,positive,design_issue,"design, expected, vivid",low,docx,summary_2.docx_1
+The cover is soft (rubberized) but durable,positive,design_issue,"cover, durable, rubberized, soft",low,docx,summary_2.docx_2
+I have received many compliments,positive,no_issue,"compliments, received",low,docx,summary_2.docx_3
+"It was an excellent buy! I would recommend this to anyone wanting a ""good look"" for their phone",positive,no_issue,"buy, excellent, good, look, phone",low,docx,summary_2.docx_4
+"Overall, the user rated the product 5",positive,usability_issue,"overall, product, rated, user",low,docx,summary_2.docx_5
+"0 stars, indicating a positive experience",positive,usability_issue,"experience, indicating, positive, stars",low,docx,summary_2.docx_6
+"The summary provided by the reviewer was ""better than expected!""",positive,no_issue,"better, expected, provided, reviewer, summary",low,docx,summary_2.docx_7
+Helpfulness votes: 0 out of 0,positive,usability_issue,"helpfulness, votes",low,docx,summary_2.docx_8
+"Review Date: 06 15, 2012 (Unix: 1339718400)",negative,no_issue,"06, 1339718400, 15, 2012, date",medium,docx,summary_2.docx_9
+"Summary 20
+Reviewer: Onir Pernia ""Onir Pernia"" (ID: AZOFNVDHKYKNL)
+Product ID: 8199406933
+
+This review highlights that the product was generally described as: Honestly I have always loved this specific model, since you can just take it with you on the road not worrying if you end up losing it or leaving it where ever you go",positive,usability_issue,"20, id, onir, pernia, product",low,docx,summary_20.docx_0
+"Though it doesn't exactly meet the fast charging needs of high end phones, it works pretty well on all of them, you just need to be patient",positive,performance_issue,"charging, doesn, end, exactly, fast",low,docx,summary_20.docx_1
+"Overall, the user rated the product 5",positive,usability_issue,"overall, product, rated, user",low,docx,summary_20.docx_2
+"0 stars, indicating a positive experience",positive,usability_issue,"experience, indicating, positive, stars",low,docx,summary_20.docx_3
+"The summary provided by the reviewer was ""Great multipurpose charger!""",positive,no_issue,"charger, great, multipurpose, provided, reviewer",low,docx,summary_20.docx_4
+Helpfulness votes: 0 out of 0,positive,usability_issue,"helpfulness, votes",low,docx,summary_20.docx_5
+"Review Date: 06 19, 2013 (Unix: 1371600000)",negative,no_issue,"06, 1371600000, 19, 2013, date",medium,docx,summary_20.docx_6
+"Summary 3
+Reviewer: voidedlime (ID: A2NSS0L3NIU6CN)
+Product ID: 7532385086
+
+This review highlights that the product was generally described as: this cover makes an old phone look and feel new",negative,design_issue,"7532385086, id, product, review, reviewer",high,docx,summary_3.docx_0
+I like that I can order covers for little money and snazzy up my phone,negative,design_issue,"covers, like, little, money, order",high,docx,summary_3.docx_1
+"Overall, the user rated the product 4",positive,usability_issue,"overall, product, rated, user",low,docx,summary_3.docx_2
+"0 stars, indicating a positive experience",positive,usability_issue,"experience, indicating, positive, stars",low,docx,summary_3.docx_3
+"The summary provided by the reviewer was ""htc evo cover""",negative,design_issue,"cover, evo, htc, provided, reviewer",high,docx,summary_3.docx_4
+Helpfulness votes: 0 out of 0,positive,usability_issue,"helpfulness, votes",low,docx,summary_3.docx_5
+"Review Date: 09 9, 2012 (Unix: 1347148800)",negative,no_issue,"09, 1347148800, 2012, date, review",medium,docx,summary_3.docx_6
+"Summary 4
+Reviewer: 0902virgo (ID: A1PMGOX24BWDAZ)
+Product ID: 7887421268
+
+This review highlights that the product was generally described as: I loved the case when I first received it but shortly after, the case started to peel off at first i did not know what it was until i looked on the back of the case and it was missing spots",negative,unexpected_behavior,"0902virgo, case, id, product, spots",high,docx,summary_4.docx_0
+Guess sometimes a good deal is not really a good deal,negative,no_issue,"deal, good, guess, really",medium,docx,summary_4.docx_1
+"Overall, the user rated the product 2",positive,usability_issue,"overall, product, rated, user",low,docx,summary_4.docx_3
+"0 stars, indicating a negative experience",negative,design_issue,"experience, indicating, negative, stars",high,docx,summary_4.docx_4
+"The summary provided by the reviewer was ""Loved it at first""",positive,usability_issue,"loved, provided, reviewer, summary",low,docx,summary_4.docx_5
+Helpfulness votes: 0 out of 0,positive,usability_issue,"helpfulness, votes",low,docx,summary_4.docx_6
+"Review Date: 08 6, 2012 (Unix: 1344211200)",negative,no_issue,"08, 1344211200, 2012, date, review",medium,docx,summary_4.docx_7
+"Summary 5
+Reviewer: California Love (ID: A115GM0PI28KP5)
+Product ID: 7887421268
+
+This review highlights that the product was generally described as: The color is more dark in person, and this isnt the best protection case",positive,design_issue,"7887421268, id, product, protection, review",low,docx,summary_5.docx_0
+"I get a lot of compliments on the case, and it was easy to put on",positive,design_issue,"case, compliments, easy, lot",low,docx,summary_5.docx_1
+"Overall, the user rated the product 4",positive,usability_issue,"overall, product, rated, user",low,docx,summary_5.docx_2
+"0 stars, indicating a positive experience",positive,usability_issue,"experience, indicating, positive, stars",low,docx,summary_5.docx_3
+"The summary provided by the reviewer was ""Cute""",positive,design_issue,"cute, provided, reviewer, summary",low,docx,summary_5.docx_4
+Helpfulness votes: 0 out of 0,positive,usability_issue,"helpfulness, votes",low,docx,summary_5.docx_5
+"Review Date: 03 7, 2013 (Unix: 1362614400)",negative,no_issue,"03, 1362614400, 2013, date, review",medium,docx,summary_5.docx_6
+"Paul Douglas (ID: A2AOF16F78BQK6)
+Product ID: 7887421268
+
+This review highlights that the product was generally described as: Simple to install and a great way to help protect your phone",positive,durability_issue,"id, phone, product, protect, review",low,docx,summary_6.docx_1
+My wife really liked the ability to change the look of her phone,positive,design_issue,"ability, change, liked, look, phone",low,docx,summary_6.docx_2
+"Overall, the user rated the product 5",positive,usability_issue,"overall, product, rated, user",low,docx,summary_6.docx_3
+"0 stars, indicating a positive experience",positive,usability_issue,"experience, indicating, positive, stars",low,docx,summary_6.docx_4
+"The summary provided by the reviewer was ""Simple and Attractive Protector""",positive,usability_issue,"attractive, protector, provided, reviewer, simple",low,docx,summary_6.docx_5
+Helpfulness votes: 0 out of 0,positive,usability_issue,"helpfulness, votes",low,docx,summary_6.docx_6
+"Review Date: 08 13, 2013 (Unix: 1376352000)",negative,no_issue,"08, 13, 1376352000, 2013, date",medium,docx,summary_6.docx_7
+"Summary 7
+Reviewer: Davonne (ID: A2LFBAQ1CPDWNY)
+Product ID: 7887421268
+
+This review highlights that the product was generally described as: The case is pretty good",positive,design_issue,"7887421268, a2lfbaq1cpdwny, case, id, product",low,docx,summary_7.docx_0
+It dose have some scratches on one side of the phone but its every little,negative,durability_issue,"dose, little, phone, scratches",high,docx,summary_7.docx_1
+Other then that i like it,positive,design_issue,like,low,docx,summary_7.docx_2
+Ive dropped my phone a few times since putting on the case and it didnt break or scratch,negative,durability_issue,"break, case, didnt, dropped, ive",high,docx,summary_7.docx_3
+Ive gotten many complements on this case and over all it was worth the few bucks I spent,positive,no_issue,"bucks, case, complements, gotten, ive",low,docx,summary_7.docx_4
+"Overall, the user rated the product 4",positive,usability_issue,"overall, product, rated, user",low,docx,summary_7.docx_5
+"0 stars, indicating a positive experience",positive,usability_issue,"experience, indicating, positive, stars",low,docx,summary_7.docx_6
+"The summary provided by the reviewer was ""Good Case""",positive,no_issue,"case, good, provided, reviewer, summary",low,docx,summary_7.docx_7
+Helpfulness votes: 0 out of 0,positive,usability_issue,"helpfulness, votes",low,docx,summary_7.docx_8
+"Review Date: 05 22, 2012 (Unix: 1337644800)",negative,no_issue,"05, 1337644800, 2012, 22, date",medium,docx,summary_7.docx_9
+"Summary 8
+Reviewer: ddmmt9 (ID: A22PJG27JHKWPA)
+Product ID: 7887421268
+
+This review highlights that the product was generally described as: This case is afordable and yes it peels very easy but thats to be expected because its a dollor",positive,design_issue,"7887421268, id, product, reviewer, summary",low,docx,summary_8.docx_0
+I bought mine from Electromaster,negative,performance_issue,"bought, electromaster",high,docx,summary_8.docx_1
+It snaps on fine for me but if I were to drop my phone the phone would be fine but the case would surely be done for,negative,durability_issue,"case, drop, fine, phone, snaps",high,docx,summary_8.docx_2
+its only a dollar so do not get your hopes up,negative,no_issue,"dollar, hopes",medium,docx,summary_8.docx_3
+it looks great but its for show not for protection,positive,design_issue,"great, looks, protection",low,docx,summary_8.docx_4
+"if you want your phone to be protected go the extra mile for an outter box
+
+Overall, the user rated the product 4",negative,durability_issue,"box, extra, mile, outter, overall",high,docx,summary_8.docx_5
+"0 stars, indicating a positive experience",positive,usability_issue,"experience, indicating, positive, stars",low,docx,summary_8.docx_6
+"The summary provided by the reviewer was ""This case is exactly as described""",positive,usability_issue,"case, described, exactly, provided, reviewer",low,docx,summary_8.docx_7
+Helpfulness votes: 0 out of 0,positive,usability_issue,"helpfulness, votes",low,docx,summary_8.docx_8
+"Review Date: 10 23, 2012 (Unix: 1350950400)",negative,no_issue,"10, 1350950400, 2012, 23, date",medium,docx,summary_8.docx_9
+"Summary 9
+Reviewer: Grandma in NH (ID: A2Y33PMFKII0VR)
+Product ID: 7887421268
+
+This review highlights that the product was generally described as: This is one of my favorite cases I have this one on my phone I really love the color a lot",positive,no_issue,"id, phone, product, really, review",low,docx,summary_9.docx_0
+"Overall, the user rated the product 5",positive,usability_issue,"overall, product, rated, user",low,docx,summary_9.docx_1
+"0 stars, indicating a positive experience",positive,usability_issue,"experience, indicating, positive, stars",low,docx,summary_9.docx_2
+"The summary provided by the reviewer was ""Love it!""",positive,no_issue,"love, provided, reviewer, summary",low,docx,summary_9.docx_3
+Helpfulness votes: 0 out of 0,positive,usability_issue,"helpfulness, votes",low,docx,summary_9.docx_4
+"Review Date: 02 15, 2013 (Unix: 1360886400)",negative,no_issue,"02, 1360886400, 15, 2013, date",medium,docx,summary_9.docx_5
+"Product Review Analysis Report 1
+This report provides a structured analysis of a customer review for product ID 8199406933",positive,no_issue,"8199406933, analysis, product, report, review",low,pdf,report_1.pdf_0
+"The
+purpose is to evaluate user satisfaction, product performance, and overall reliability based on the
+provided feedback",positive,no_issue,"based, evaluate, feedback, overall, performance",low,pdf,report_1.pdf_1
+"Reviewer Information:
+Name: Tyler
+Reviewer ID: A1W8C6YKUV2DNK
+Review Date: 09 15, 2011 (Unix: 1316044800)
+Review Summary:
+I've had this charger well over a year now, and it still works perfectly",positive,performance_issue,"09, review, reviewer, unix, ve",low,pdf,report_1.pdf_2
+"Most chargers would have
+broken by now",negative,durability_issue,"broken, chargers",high,pdf,report_1.pdf_3
+"The folding blades make this more portable than the chargers that come with some
+Blackberry models that have adapters for different countries",positive,performance_issue,"adapters, blackberry, blades, chargers, come",low,pdf,report_1.pdf_4
+"Evaluation:
+The product received a rating of 5",positive,no_issue,"evaluation, product, rating, received",low,pdf,report_1.pdf_5
+This suggests a highly positive user experience,positive,no_issue,"experience, highly, positive, suggests, user",low,pdf,report_1.pdf_7
+"The
+reviewer summarized their experience as ""Holds up over time""",positive,no_issue,"experience, holds, reviewer, summarized, time",low,pdf,report_1.pdf_8
+"Helpfulness feedback indicates 0
+out of 0 users found this review useful",positive,no_issue,"feedback, helpfulness, indicates, review, useful",low,pdf,report_1.pdf_9
+"Insights and Interpretation:
+Based on the review, the product demonstrates strong durability and user satisfaction",positive,no_issue,"based, demonstrates, durability, insights, interpretation",low,pdf,report_1.pdf_10
+"Key factors
+influencing the rating include usability, build quality, and value for money",positive,durability_issue,"build, factors, include, influencing, key",low,pdf,report_1.pdf_11
+"This feedback can be
+useful for both potential buyers and product developers in assessing product performance in
+real-world scenarios",positive,no_issue,"assessing, buyers, developers, feedback, product",low,pdf,report_1.pdf_12
+"Product Review Analysis Report 10
+This report provides a structured analysis of a customer review for product ID 8288853439",positive,no_issue,"10, analysis, product, report, review",low,pdf,report_10.pdf_0
+"The
+purpose is to evaluate user satisfaction, product performance, and overall reliability based on the
+provided feedback",positive,no_issue,"based, evaluate, feedback, overall, performance",low,pdf,report_10.pdf_1
+"Reviewer Information:
+Name: Nina L Hunter
+Reviewer ID: A3FMA2AFK85NMX
+Review Date: 02 25, 2014 (Unix: 1393286400)
+Review Summary:
+I purchase this for a backup at work",negative,no_issue,"02, purchase, review, reviewer, summary",medium,pdf,report_10.pdf_2
+"I would recommend this charger for the
+Samsung Galaxy S4",positive,performance_issue,"charger, galaxy, recommend, s4, samsung",low,pdf,report_10.pdf_4
+"Evaluation:
+The product received a rating of 5",positive,no_issue,"evaluation, product, rating, received",low,pdf,report_10.pdf_5
+This suggests a highly positive user experience,positive,no_issue,"experience, highly, positive, suggests, user",low,pdf,report_10.pdf_7
+"The
+reviewer summarized their experience as ""Backup for work""",negative,no_issue,"backup, experience, reviewer, summarized, work",medium,pdf,report_10.pdf_8
+"Helpfulness feedback indicates 0 out
+of 0 users found this review useful",positive,no_issue,"feedback, helpfulness, indicates, review, useful",low,pdf,report_10.pdf_9
+"Insights and Interpretation:
+Based on the review, the product demonstrates strong durability and user satisfaction",positive,no_issue,"based, demonstrates, durability, insights, interpretation",low,pdf,report_10.pdf_10
+"Key factors
+influencing the rating include usability, build quality, and value for money",positive,durability_issue,"build, factors, include, influencing, key",low,pdf,report_10.pdf_11
+"This feedback can be
+useful for both potential buyers and product developers in assessing product performance in
+real-world scenarios",positive,no_issue,"assessing, buyers, developers, feedback, product",low,pdf,report_10.pdf_12
+"Product Review Analysis Report 11
+This report provides a structured analysis of a customer review for product ID 8288853439",positive,no_issue,"11, analysis, product, report, review",low,pdf,report_11.pdf_0
+"The
+purpose is to evaluate user satisfaction, product performance, and overall reliability based on the
+provided feedback",positive,no_issue,"based, evaluate, feedback, overall, performance",low,pdf,report_11.pdf_1
+"Reviewer Information:
+Name: Suthrn Angel ""Suzy""
+Reviewer ID: A2EMKC5VI5MZXB
+Review Date: 09 20, 2013 (Unix: 1379635200)
+Review Summary:
+This charger woks wonderfully on the Samsung Galaxy S4",positive,performance_issue,"09, review, reviewer, suzy, unix",low,pdf,report_11.pdf_2
+"it chargers the phone fast and the price
+is great! Highly Recommended product!
+Evaluation:
+The product received a rating of 5",positive,performance_issue,"chargers, evaluation, fast, great, product",low,pdf,report_11.pdf_3
+This suggests a highly positive user experience,positive,no_issue,"experience, highly, positive, suggests, user",low,pdf,report_11.pdf_5
+"The
+reviewer summarized their experience as ""Works Great",positive,no_issue,"experience, great, reviewer, summarized, works",low,pdf,report_11.pdf_6
+"Helpfulness feedback indicates 0 out of
+0 users found this review useful",positive,no_issue,"feedback, helpfulness, indicates, review, useful",low,pdf,report_11.pdf_10
+"Insights and Interpretation:
+Based on the review, the product demonstrates strong durability and user satisfaction",positive,no_issue,"based, demonstrates, durability, insights, interpretation",low,pdf,report_11.pdf_11
+"Key factors
+influencing the rating include usability, build quality, and value for money",positive,durability_issue,"build, factors, include, influencing, key",low,pdf,report_11.pdf_12
+"This feedback can be
+useful for both potential buyers and product developers in assessing product performance in
+real-world scenarios",positive,no_issue,"assessing, buyers, developers, feedback, product",low,pdf,report_11.pdf_13
+"Product Review Analysis Report 12
+This report provides a structured analysis of a customer review for product ID 8288855504",positive,no_issue,"12, analysis, product, report, review",low,pdf,report_12.pdf_0
+"The
+purpose is to evaluate user satisfaction, product performance, and overall reliability based on the
+provided feedback",positive,no_issue,"based, evaluate, feedback, overall, performance",low,pdf,report_12.pdf_1
+"Reviewer Information:
+Name: Bigced
+Reviewer ID: AR6VDRB5LTDGH
+Review Date: 04 24, 2013 (Unix: 1366761600)
+Review Summary:
+This is another great product and i will always order from here in the future",positive,no_issue,"04, order, product, review, reviewer",low,pdf,report_12.pdf_2
+"money spent well!! If
+you need a great car charger this is the one you need!!
+Evaluation:
+The product received a rating of 5",positive,performance_issue,"car, charger, evaluation, great, need",low,pdf,report_12.pdf_3
+This suggests a highly positive user experience,positive,no_issue,"experience, highly, positive, suggests, user",low,pdf,report_12.pdf_5
+"The
+reviewer summarized their experience as ""CAME RIGHT IN HANDY!""",positive,no_issue,"came, experience, handy, reviewer, right",low,pdf,report_12.pdf_6
+"Helpfulness feedback
+indicates 0 out of 0 users found this review useful",positive,no_issue,"feedback, helpfulness, indicates, review, useful",low,pdf,report_12.pdf_7
+"Insights and Interpretation:
+Based on the review, the product demonstrates strong durability and user satisfaction",positive,no_issue,"based, demonstrates, durability, insights, interpretation",low,pdf,report_12.pdf_8
+"Key factors
+influencing the rating include usability, build quality, and value for money",positive,durability_issue,"build, factors, include, influencing, key",low,pdf,report_12.pdf_9
+"This feedback can be
+useful for both potential buyers and product developers in assessing product performance in
+real-world scenarios",positive,no_issue,"assessing, buyers, developers, feedback, product",low,pdf,report_12.pdf_10
+"Product Review Analysis Report 13
+This report provides a structured analysis of a customer review for product ID 8288855504",positive,no_issue,"13, analysis, product, report, review",low,pdf,report_13.pdf_0
+"The
+purpose is to evaluate user satisfaction, product performance, and overall reliability based on the
+provided feedback",positive,no_issue,"based, evaluate, feedback, overall, performance",low,pdf,report_13.pdf_1
+"Reviewer Information:
+Name: Cron
+Reviewer ID: A1JXWKSVPTLYDL
+Review Date: 06 30, 2011 (Unix: 1309392000)
+Review Summary:
+goes into the lighter port a little rough but it charges the phone fine",negative,performance_issue,"06, port, review, reviewer, rough",high,pdf,report_13.pdf_2
+"I wish it had a little more reach
+so i could use the phone from the passenger seat of the car more comfortably but its not a big
+problem",positive,performance_issue,"big, car, comfortably, little, passenger",low,pdf,report_13.pdf_3
+"it will reach pretty far because of the coiled section but this will put stress on the charge
+port of your phone which many people dont realize will eventually break it",negative,performance_issue,"break, charge, coiled, dont, eventually",high,pdf,report_13.pdf_4
+"Evaluation:
+The product received a rating of 4",positive,no_issue,"evaluation, product, rating, received",low,pdf,report_13.pdf_5
+This suggests a highly positive user experience,positive,no_issue,"experience, highly, positive, suggests, user",low,pdf,report_13.pdf_7
+"The
+reviewer summarized their experience as ""buy it if you need a car charger""",positive,performance_issue,"buy, car, charger, experience, need",low,pdf,report_13.pdf_8
+"Helpfulness feedback
+indicates 0 out of 0 users found this review useful",positive,no_issue,"feedback, helpfulness, indicates, review, useful",low,pdf,report_13.pdf_9
+"Insights and Interpretation:
+Based on the review, the product demonstrates strong durability and user satisfaction",positive,no_issue,"based, demonstrates, durability, insights, interpretation",low,pdf,report_13.pdf_10
+"Key factors
+influencing the rating include usability, build quality, and value for money",positive,durability_issue,"build, factors, include, influencing, key",low,pdf,report_13.pdf_11
+"This feedback can be
+useful for both potential buyers and product developers in assessing product performance in
+real-world scenarios",positive,no_issue,"assessing, buyers, developers, feedback, product",low,pdf,report_13.pdf_12
+"Product Review Analysis Report 14
+This report provides a structured analysis of a customer review for product ID 8288855504",positive,no_issue,"14, analysis, product, report, review",low,pdf,report_14.pdf_0
+"The
+purpose is to evaluate user satisfaction, product performance, and overall reliability based on the
+provided feedback",positive,no_issue,"based, evaluate, feedback, overall, performance",low,pdf,report_14.pdf_1
+"Reviewer Information:
+Name: dohmez
+Reviewer ID: A3AWPJ1XXZM6XL
+Review Date: 08 29, 2011 (Unix: 1314576000)
+Review Summary:
+I purchased two of these chargers for my sister and girlfriend",negative,performance_issue,"08, purchased, review, reviewer, sister",high,pdf,report_14.pdf_2
+"They both have Samsung Galaxy
+phones and needed a car charger so being the OEM fanboy I am, I swooped up on a couple of
+these for them while remaining slightly skeptical of what was actually going to show up in the mail at
+this price",negative,performance_issue,"actually, price, remaining, samsung, skeptical",high,pdf,report_14.pdf_3
+"I'm happy to report I definitely received 2 OEM Samsung car chargers in the mail in
+sealed bags with part # barcodes (the kind you'd normally receive in a new/refurb phone)",negative,performance_issue,"bags, receive, received, refurb, report",high,pdf,report_14.pdf_4
+"Can't go
+wrong with the price and certainly can't argue with the benefits of OEM vs",positive,performance_issue,"argue, benefits, certainly, oem, price",low,pdf,report_14.pdf_5
+"generic (mA output and
+reliability at the top of the list!)",negative,performance_issue,"generic, list, ma, output, reliability",high,pdf,report_14.pdf_6
+"Evaluation:
+The product received a rating of 5",positive,no_issue,"evaluation, product, rating, received",low,pdf,report_14.pdf_7
+This suggests a highly positive user experience,positive,no_issue,"experience, highly, positive, suggests, user",low,pdf,report_14.pdf_9
+"The
+reviewer summarized their experience as ""OEM Samsung micro USB charger""",negative,performance_issue,"charger, experience, micro, oem, reviewer",high,pdf,report_14.pdf_10
+"Helpfulness
+feedback indicates 0 out of 0 users found this review useful",positive,no_issue,"feedback, helpfulness, indicates, review, useful",low,pdf,report_14.pdf_11
+"Insights and Interpretation:
+Based on the review, the product demonstrates strong durability and user satisfaction",positive,no_issue,"based, demonstrates, durability, insights, interpretation",low,pdf,report_14.pdf_12
+"Key factors
+influencing the rating include usability, build quality, and value for money",positive,durability_issue,"build, factors, include, influencing, key",low,pdf,report_14.pdf_13
+"This feedback can be
+useful for both potential buyers and product developers in assessing product performance in
+real-world scenarios",positive,no_issue,"assessing, buyers, developers, feedback, product",low,pdf,report_14.pdf_14
+"Product Review Analysis Report 15
+This report provides a structured analysis of a customer review for product ID 8288855504",positive,no_issue,"15, analysis, product, report, review",low,pdf,report_15.pdf_0
+"The
+purpose is to evaluate user satisfaction, product performance, and overall reliability based on the
+provided feedback",positive,no_issue,"based, evaluate, feedback, overall, performance",low,pdf,report_15.pdf_1
+"Hall
+Reviewer ID: A2RF9FHC4HC3JO
+Review Date: 06 4, 2011 (Unix: 1307145600)
+Review Summary:
+I bought this for my Samsung Charge",negative,performance_issue,"06, 1307145600, 2011, a2rf9fhc4hc3jo, review",high,pdf,report_15.pdf_3
+"It works perfectly and is built as solidly as the $20 Verizon
+charger",positive,no_issue,"20, built, charger, perfectly, solidly",low,pdf,report_15.pdf_4
+"I highly recommend this car charger and thanks for the great price!
+Evaluation:
+The product received a rating of 5",positive,no_issue,"car, charger, evaluation, great, highly",low,pdf,report_15.pdf_5
+This suggests a highly positive user experience,positive,no_issue,"experience, highly, positive, suggests, user",low,pdf,report_15.pdf_7
+"The
+reviewer summarized their experience as ""Great product - Great price""",positive,no_issue,"experience, great, price, product, reviewer",low,pdf,report_15.pdf_8
+"Helpfulness feedback
+indicates 0 out of 0 users found this review useful",positive,no_issue,"feedback, helpfulness, indicates, review, useful",low,pdf,report_15.pdf_9
+"Insights and Interpretation:
+Based on the review, the product demonstrates strong durability and user satisfaction",positive,no_issue,"based, demonstrates, durability, insights, interpretation",low,pdf,report_15.pdf_10
+"Key factors
+influencing the rating include usability, build quality, and value for money",positive,durability_issue,"build, factors, include, influencing, key",low,pdf,report_15.pdf_11
+"This feedback can be
+useful for both potential buyers and product developers in assessing product performance in
+real-world scenarios",positive,no_issue,"assessing, buyers, developers, feedback, product",low,pdf,report_15.pdf_12
+"Product Review Analysis Report 16
+This report provides a structured analysis of a customer review for product ID 8288855504",positive,no_issue,"16, analysis, product, report, review",low,pdf,report_16.pdf_0
+"The
+purpose is to evaluate user satisfaction, product performance, and overall reliability based on the
+provided feedback",positive,no_issue,"based, evaluate, feedback, overall, performance",low,pdf,report_16.pdf_1
+"Reviewer Information:
+Name: Steve
+Reviewer ID: A16GNVT2QWNYPM
+Review Date: 08 19, 2011 (Unix: 1313712000)
+Review Summary:
+It does what it needs to do, very pleased",positive,no_issue,"08, 1313712000, 19, review, reviewer",low,pdf,report_16.pdf_2
+"I bought some other cheap lame one and will never go
+back",negative,design_issue,"bought, cheap, lame",high,pdf,report_16.pdf_3
+"Evaluation:
+The product received a rating of 5",positive,no_issue,"evaluation, product, rating, received",low,pdf,report_16.pdf_4
+This suggests a highly positive user experience,positive,no_issue,"experience, highly, positive, suggests, user",low,pdf,report_16.pdf_6
+"The
+reviewer summarized their experience as ""Awesome""",positive,no_issue,"awesome, experience, reviewer, summarized",low,pdf,report_16.pdf_7
+"Helpfulness feedback indicates 0 out of 0
+users found this review useful",positive,no_issue,"feedback, helpfulness, indicates, review, useful",low,pdf,report_16.pdf_8
+"Insights and Interpretation:
+Based on the review, the product demonstrates strong durability and user satisfaction",positive,no_issue,"based, demonstrates, durability, insights, interpretation",low,pdf,report_16.pdf_9
+"Key factors
+influencing the rating include usability, build quality, and value for money",positive,durability_issue,"build, factors, include, influencing, key",low,pdf,report_16.pdf_10
+"This feedback can be
+useful for both potential buyers and product developers in assessing product performance in
+real-world scenarios",positive,no_issue,"assessing, buyers, developers, feedback, product",low,pdf,report_16.pdf_11
+"Product Review Analysis Report 17
+This report analyzes customer feedback for product ID 8288855504, focusing on usability,
+reliability, and value",negative,usability_issue,"17, 8288855504, analysis, product, report",high,pdf,report_17.pdf_0
+"Reviewer: zeppbiatch (ID: A2VIMRVTUCKF9M)
+Date: 11 26, 2010
+Review Content: Charger works great",positive,performance_issue,"11, 2010, 26, a2vimrvtuckf9m, charger",low,pdf,report_17.pdf_1
+Haven't had any issues with it at all,negative,unexpected_behavior,"haven, issues",high,pdf,report_17.pdf_2
+"I wish it has a
+retractable cord like some other chargers I've used, but other than that, I love it",positive,performance_issue,"chargers, cord, like, love, retractable",low,pdf,report_17.pdf_3
+Conclusion: The product demonstrates strong performance based on user feedback,positive,no_issue,"based, conclusion, demonstrates, feedback, performance",low,pdf,report_17.pdf_7
+"Product Review Analysis Report 18
+This report analyzes customer feedback for product ID 8288862993, focusing on usability,
+reliability, and value",positive,no_issue,"18, 8288862993, analysis, product, report",low,pdf,report_18.pdf_0
+"Reviewer: alex (ID: A1MMMVGC7A7P1Y)
+Date: 04 12, 2014
+Review Content: It works great thus far no issues",positive,performance_issue,"04, 12, 2014, a1mmmvgc7a7p1y, alex",low,pdf,report_18.pdf_1
+"The only thing i might have limited was a usb
+Connect or it charges my t989 without fail
+Evaluation: Rated 3",negative,performance_issue,"charges, connect, evaluation, fail, limited",high,pdf,report_18.pdf_2
+"Summary: ""this is great buy and very useful""",positive,no_issue,"buy, great, summary, useful",low,pdf,report_18.pdf_4
+Conclusion: The product demonstrates some limitations based on user feedback,negative,usability_issue,"based, conclusion, demonstrates, feedback, limitations",high,pdf,report_18.pdf_5
+"Product Review Analysis Report 19
+This report analyzes customer feedback for product ID 8288862993, focusing on usability,
+reliability, and value",positive,no_issue,"19, 8288862993, analysis, product, report",low,pdf,report_19.pdf_0
+"Reviewer: AndyC (ID: A1WK0DH0W21F3G)
+Date: 01 20, 2014
+Review Content: The big store that is in every town now (can't say their name) either does not
+carry anything or is always out of stock",negative,no_issue,"01, review, reviewer, say, stock",medium,pdf,report_19.pdf_1
+"If they ever have anything is stock, it is cheap junk that
+does not last",negative,no_issue,"cheap, does, junk, stock",medium,pdf,report_19.pdf_2
+"I got this cord thru amazon for a fraction of the price I usually pay for the junk at that
+big national store",negative,performance_issue,"amazon, big, cord, fraction, got",high,pdf,report_19.pdf_3
+This cord works perfectly and has lasted for months now,positive,no_issue,"cord, lasted, months, perfectly, works",low,pdf,report_19.pdf_4
+"I also bought at the
+same time 2 other cheaper charger cords thru amazon that work perfectly",positive,performance_issue,"amazon, bought, charger, cheaper, cords",low,pdf,report_19.pdf_5
+"Since this one still
+works, I have the other two to fall back on when this one finally goes out",negative,no_issue,"fall, finally, goes, works",medium,pdf,report_19.pdf_6
+"This is a great car
+charger, and it does not cost near as much as the junk you get at the local store--not to mention this
+is the Samsung brand charger verses their junk",negative,performance_issue,"brand, car, charger, cost, junk",high,pdf,report_19.pdf_7
+Conclusion: The product demonstrates strong performance based on user feedback,positive,no_issue,"based, conclusion, demonstrates, feedback, performance",low,pdf,report_19.pdf_11
+"Product Review Analysis Report 2
+This report provides a structured analysis of a customer review for product ID 8288853439",positive,no_issue,"8288853439, analysis, product, report, review",low,pdf,report_2.pdf_0
+"The
+purpose is to evaluate user satisfaction, product performance, and overall reliability based on the
+provided feedback",positive,no_issue,"based, evaluate, feedback, overall, performance",low,pdf,report_2.pdf_1
+"Reviewer Information:
+Name: Carolin Mng ""carolinm""
+Reviewer ID: A1ABWKQZJZPXMG
+Review Date: 01 10, 2014 (Unix: 1389312000)
+Review Summary:
+so far no problems, it charges fast that is what i need it",positive,performance_issue,"01, need, problems, review, reviewer",low,pdf,report_2.pdf_2
+"it doesn' have an USB as it specified, jus a
+direct wall charger",negative,performance_issue,"charger, direct, doesn, jus, specified",high,pdf,report_2.pdf_3
+"Evaluation:
+The product received a rating of 5",positive,no_issue,"evaluation, product, rating, received",low,pdf,report_2.pdf_4
+This suggests a highly positive user experience,positive,no_issue,"experience, highly, positive, suggests, user",low,pdf,report_2.pdf_6
+"The
+reviewer summarized their experience as ""Working fine""",positive,no_issue,"experience, fine, reviewer, summarized, working",low,pdf,report_2.pdf_7
+"Helpfulness feedback indicates 0 out of 0
+users found this review useful",positive,no_issue,"feedback, helpfulness, indicates, review, useful",low,pdf,report_2.pdf_8
+"Insights and Interpretation:
+Based on the review, the product demonstrates strong durability and user satisfaction",positive,no_issue,"based, demonstrates, durability, insights, interpretation",low,pdf,report_2.pdf_9
+"Key factors
+influencing the rating include usability, build quality, and value for money",positive,durability_issue,"build, factors, include, influencing, key",low,pdf,report_2.pdf_10
+"This feedback can be
+useful for both potential buyers and product developers in assessing product performance in
+real-world scenarios",positive,no_issue,"assessing, buyers, developers, feedback, product",low,pdf,report_2.pdf_11
+"Product Review Analysis Report 20
+This report analyzes customer feedback for product ID 8288862993, focusing on usability,
+reliability, and value",positive,no_issue,"20, 8288862993, analysis, product, report",low,pdf,report_20.pdf_0
+"Reviewer: Aron Edwards (ID: AZIN9ATSFV0ZG)
+Date: 08 5, 2013
+Review Content: Good lengthEasy to useVery fast chargingI would recommend it to persons who
+use their phone a lot",positive,performance_issue,"08, phone, recommend, review, reviewer",low,pdf,report_20.pdf_1
+Conclusion: The product demonstrates strong performance based on user feedback,positive,no_issue,"based, conclusion, demonstrates, feedback, performance",low,pdf,report_20.pdf_6
+"Product Review Analysis Report 3
+This report provides a structured analysis of a customer review for product ID 8288853439",positive,no_issue,"8288853439, analysis, product, report, review",low,pdf,report_3.pdf_0
+"The
+purpose is to evaluate user satisfaction, product performance, and overall reliability based on the
+provided feedback",positive,no_issue,"based, evaluate, feedback, overall, performance",low,pdf,report_3.pdf_1
+"Reviewer Information:
+Name: c c
+Reviewer ID: A2C9H5QRLXXICT
+Review Date: 06 12, 2014 (Unix: 1402531200)
+Review Summary:
+Great ! So far",positive,no_issue,"06, 12, 1402531200, review, reviewer",low,pdf,report_3.pdf_2
+"I had this charger before and it seem to last pretty good 3 years fits most phones
+except Iphone and Galaxy 5 but that phone can still use it in the right side of the portal it will Judy
+charge it a bit slower",negative,performance_issue,"bit, charge, charger, fits, galaxy",high,pdf,report_3.pdf_3
+When this charger goes it tends to loose it's fit firmly in usb and has a short,negative,unexpected_behavior,"charger, firmly, fit, goes, loose",high,pdf,report_3.pdf_4
+"Evaluation:
+The product received a rating of 4",positive,no_issue,"evaluation, product, rating, received",low,pdf,report_3.pdf_5
+This suggests a highly positive user experience,positive,no_issue,"experience, highly, positive, suggests, user",low,pdf,report_3.pdf_7
+"The
+reviewer summarized their experience as ""GOOD BUY""",positive,no_issue,"buy, experience, good, reviewer, summarized",low,pdf,report_3.pdf_8
+"Helpfulness feedback indicates 0 out of 0
+users found this review useful",positive,no_issue,"feedback, helpfulness, indicates, review, useful",low,pdf,report_3.pdf_9
+"Insights and Interpretation:
+Based on the review, the product demonstrates strong durability and user satisfaction",positive,no_issue,"based, demonstrates, durability, insights, interpretation",low,pdf,report_3.pdf_10
+"Key factors
+influencing the rating include usability, build quality, and value for money",positive,durability_issue,"build, factors, include, influencing, key",low,pdf,report_3.pdf_11
+"This feedback can be
+useful for both potential buyers and product developers in assessing product performance in
+real-world scenarios",positive,no_issue,"assessing, buyers, developers, feedback, product",low,pdf,report_3.pdf_12
+"Product Review Analysis Report 4
+This report provides a structured analysis of a customer review for product ID 8288853439",positive,no_issue,"8288853439, analysis, product, report, review",low,pdf,report_4.pdf_0
+"The
+purpose is to evaluate user satisfaction, product performance, and overall reliability based on the
+provided feedback",positive,no_issue,"based, evaluate, feedback, overall, performance",low,pdf,report_4.pdf_1
+"Reviewer Information:
+Name: Charles A",positive,no_issue,"charles, information, reviewer",low,pdf,report_4.pdf_2
+"Kozlowsky ""Book Lover""
+Reviewer ID: A3KUXQ8TR97MF9
+Review Date: 12 13, 2012 (Unix: 1355356800)
+Review Summary:
+Another very good phone charger that does the job and has a very affordable price that anyone can
+afford to buy it",positive,performance_issue,"12, phone, price, review, reviewer",low,pdf,report_4.pdf_3
+"Evaluation:
+The product received a rating of 4",positive,no_issue,"evaluation, product, rating, received",low,pdf,report_4.pdf_4
+This suggests a highly positive user experience,positive,no_issue,"experience, highly, positive, suggests, user",low,pdf,report_4.pdf_6
+"The
+reviewer summarized their experience as ""Very good charger",positive,no_issue,"charger, experience, good, reviewer, summarized",low,pdf,report_4.pdf_7
+"Helpfulness feedback indicates 0
+out of 0 users found this review useful",positive,no_issue,"feedback, helpfulness, indicates, review, useful",low,pdf,report_4.pdf_9
+"Insights and Interpretation:
+Based on the review, the product demonstrates strong durability and user satisfaction",positive,no_issue,"based, demonstrates, durability, insights, interpretation",low,pdf,report_4.pdf_10
+"Key factors
+influencing the rating include usability, build quality, and value for money",positive,durability_issue,"build, factors, include, influencing, key",low,pdf,report_4.pdf_11
+"This feedback can be
+useful for both potential buyers and product developers in assessing product performance in
+real-world scenarios",positive,no_issue,"assessing, buyers, developers, feedback, product",low,pdf,report_4.pdf_12
+"Product Review Analysis Report 5
+This report provides a structured analysis of a customer review for product ID 8288853439",positive,no_issue,"8288853439, analysis, product, report, review",low,pdf,report_5.pdf_0
+"The
+purpose is to evaluate user satisfaction, product performance, and overall reliability based on the
+provided feedback",positive,no_issue,"based, evaluate, feedback, overall, performance",low,pdf,report_5.pdf_1
+"Reviewer Information:
+Name: David LaBedz ""dml""
+Reviewer ID: A2A817AADURYEF
+Review Date: 01 2, 2014 (Unix: 1388620800)
+Review Summary:
+Works well",positive,no_issue,"01, 1388620800, 2014, review, reviewer",low,pdf,report_5.pdf_2
+We use this for travel and it lives in our luggage most of the year,positive,performance_issue,"lives, luggage, travel, use, year",low,pdf,report_5.pdf_3
+"For the low price
+having an extra USB charger this works great",positive,performance_issue,"charger, extra, great, having, low",low,pdf,report_5.pdf_4
+Charges our Galaxy S3 and Note 2,positive,performance_issue,"charges, galaxy, note, s3",low,pdf,report_5.pdf_5
+"Evaluation:
+The product received a rating of 5",positive,no_issue,"evaluation, product, rating, received",low,pdf,report_5.pdf_6
+This suggests a highly positive user experience,positive,no_issue,"experience, highly, positive, suggests, user",low,pdf,report_5.pdf_8
+"The
+reviewer summarized their experience as ""Travel charger",positive,performance_issue,"charger, experience, reviewer, summarized, travel",low,pdf,report_5.pdf_9
+"Helpfulness feedback indicates 0 out of
+0 users found this review useful",positive,no_issue,"feedback, helpfulness, indicates, review, useful",low,pdf,report_5.pdf_11
+"Insights and Interpretation:
+Based on the review, the product demonstrates strong durability and user satisfaction",positive,no_issue,"based, demonstrates, durability, insights, interpretation",low,pdf,report_5.pdf_12
+"Key factors
+influencing the rating include usability, build quality, and value for money",positive,durability_issue,"build, factors, include, influencing, key",low,pdf,report_5.pdf_13
+"This feedback can be
+useful for both potential buyers and product developers in assessing product performance in
+real-world scenarios",positive,no_issue,"assessing, buyers, developers, feedback, product",low,pdf,report_5.pdf_14
+"Product Review Analysis Report 6
+This report provides a structured analysis of a customer review for product ID 8288853439",positive,no_issue,"8288853439, analysis, product, report, review",low,pdf,report_6.pdf_0
+"The
+purpose is to evaluate user satisfaction, product performance, and overall reliability based on the
+provided feedback",positive,no_issue,"based, evaluate, feedback, overall, performance",low,pdf,report_6.pdf_1
+"Reviewer Information:
+Name: Jade
+Reviewer ID: A3CHJDCPIUK6BZ
+Review Date: 12 10, 2013 (Unix: 1386633600)
+Review Summary:
+I needed a charger quick and I didn't want to spend $20",negative,performance_issue,"10, review, reviewer, spend, summary",high,pdf,report_6.pdf_2
+"00 at the convenience store for a short,
+crappy charger",negative,performance_issue,"00, charger, convenience, crappy, short",high,pdf,report_6.pdf_3
+"For this price, the charger is great",positive,performance_issue,"charger, great, price",low,pdf,report_6.pdf_4
+"Pros: The cord length is perfect if you have a tall
+bed",positive,performance_issue,"bed, cord, length, perfect, pros",low,pdf,report_6.pdf_5
+I don't have to struggle to see my phone when I'm laying down,positive,design_issue,"don, laying, phone, struggle",low,pdf,report_6.pdf_6
+"Cons: The plug in is a little
+blocky but nothing to worry about",positive,performance_issue,"blocky, cons, little, plug, worry",low,pdf,report_6.pdf_7
+The connecter doesn't like to stay in place 100% of the time,negative,no_issue,"100, connecter, doesn, like, place",medium,pdf,report_6.pdf_8
+"It
+does NOT fall out but if you wiggle it just right it disconnects the charge",negative,unexpected_behavior,"charge, disconnects, does, fall, just",high,pdf,report_6.pdf_9
+"My phone is also old and
+the port is a little worn",negative,design_issue,"little, old, phone, port, worn",high,pdf,report_6.pdf_10
+That could be my issue,negative,unexpected_behavior,issue,high,pdf,report_6.pdf_11
+If you need a good charger for a cheap price,negative,performance_issue,"charger, cheap, good, need, price",high,pdf,report_6.pdf_12
+"Buy
+this!
+Evaluation:
+The product received a rating of 4",positive,no_issue,"buy, evaluation, product, rating, received",low,pdf,report_6.pdf_13
+This suggests a highly positive user experience,positive,no_issue,"experience, highly, positive, suggests, user",low,pdf,report_6.pdf_15
+"The
+reviewer summarized their experience as ""Buy this if you want a good, long charger""",positive,performance_issue,"buy, charger, experience, good, long",low,pdf,report_6.pdf_16
+"Helpfulness
+feedback indicates 1 out of 1 users found this review useful",positive,no_issue,"feedback, helpfulness, indicates, review, useful",low,pdf,report_6.pdf_17
+"Insights and Interpretation:
+Based on the review, the product demonstrates strong durability and user satisfaction",positive,no_issue,"based, demonstrates, durability, insights, interpretation",low,pdf,report_6.pdf_18
+"Key factors
+influencing the rating include usability, build quality, and value for money",positive,durability_issue,"build, factors, include, influencing, key",low,pdf,report_6.pdf_19
+"This feedback can be
+useful for both potential buyers and product developers in assessing product performance in
+real-world scenarios",positive,no_issue,"assessing, buyers, developers, feedback, product",low,pdf,report_6.pdf_20
+"Product Review Analysis Report 7
+This report provides a structured analysis of a customer review for product ID 8288853439",positive,no_issue,"8288853439, analysis, product, report, review",low,pdf,report_7.pdf_0
+"The
+purpose is to evaluate user satisfaction, product performance, and overall reliability based on the
+provided feedback",positive,no_issue,"based, evaluate, feedback, overall, performance",low,pdf,report_7.pdf_1
+"Reviewer Information:
+Name: John L
+Reviewer ID: A12B7P0LP6OUBQ
+Review Date: 01 30, 2014 (Unix: 1391040000)
+Review Summary:
+Bought as a spare charger for the house and turned into my main charger because my other one
+failed",negative,performance_issue,"01, charger, review, reviewer, summary",high,pdf,report_7.pdf_2
+Nice long cable and has held up for tons of charges for my Galaxy S3,positive,performance_issue,"cable, charges, galaxy, held, long",low,pdf,report_7.pdf_3
+"Evaluation:
+The product received a rating of 5",positive,no_issue,"evaluation, product, rating, received",low,pdf,report_7.pdf_4
+This suggests a highly positive user experience,positive,no_issue,"experience, highly, positive, suggests, user",low,pdf,report_7.pdf_6
+"The
+reviewer summarized their experience as ""Very Good!""",positive,no_issue,"experience, good, reviewer, summarized",low,pdf,report_7.pdf_7
+"Helpfulness feedback indicates 0 out of 0
+users found this review useful",positive,no_issue,"feedback, helpfulness, indicates, review, useful",low,pdf,report_7.pdf_8
+"Insights and Interpretation:
+Based on the review, the product demonstrates strong durability and user satisfaction",positive,no_issue,"based, demonstrates, durability, insights, interpretation",low,pdf,report_7.pdf_9
+"Key factors
+influencing the rating include usability, build quality, and value for money",positive,durability_issue,"build, factors, include, influencing, key",low,pdf,report_7.pdf_10
+"This feedback can be
+useful for both potential buyers and product developers in assessing product performance in
+real-world scenarios",positive,no_issue,"assessing, buyers, developers, feedback, product",low,pdf,report_7.pdf_11
+"Product Review Analysis Report 8
+This report provides a structured analysis of a customer review for product ID 8288853439",positive,no_issue,"8288853439, analysis, product, report, review",low,pdf,report_8.pdf_0
+"The
+purpose is to evaluate user satisfaction, product performance, and overall reliability based on the
+provided feedback",positive,no_issue,"based, evaluate, feedback, overall, performance",low,pdf,report_8.pdf_1
+"Reviewer Information:
+Name: Karmell Harris
+Reviewer ID: AZW6WE7UXAMU0
+Review Date: 12 13, 2013 (Unix: 1386892800)
+Review Summary:
+The charger only lasted a week ad after that it just stopped charging my Samsung Galaxy S3",negative,performance_issue,"12, review, reviewer, stopped, summary",high,pdf,report_8.pdf_2
+"They
+really need to start making these chargers better",negative,performance_issue,"better, chargers, making, need, really",high,pdf,report_8.pdf_3
+"I've been thru several!!!!
+Evaluation:
+The product received a rating of 1",negative,no_issue,"evaluation, product, rating, received, ve",medium,pdf,report_8.pdf_7
+This suggests a negative user experience,negative,no_issue,"experience, negative, suggests, user",medium,pdf,report_8.pdf_9
+"The reviewer
+summarized their experience as ""Poor Quality Cell Phone Charger""",negative,no_issue,"cell, charger, experience, phone, poor",medium,pdf,report_8.pdf_10
+"Helpfulness feedback indicates
+0 out of 0 users found this review useful",positive,no_issue,"feedback, helpfulness, indicates, review, useful",low,pdf,report_8.pdf_11
+"Insights and Interpretation:
+Based on the review, the product demonstrates areas needing improvement",positive,usability_issue,"areas, based, demonstrates, improvement, insights",low,pdf,report_8.pdf_12
+"Key factors
+influencing the rating include usability, build quality, and value for money",positive,durability_issue,"build, factors, include, influencing, key",low,pdf,report_8.pdf_13
+"This feedback can be
+useful for both potential buyers and product developers in assessing product performance in
+real-world scenarios",positive,no_issue,"assessing, buyers, developers, feedback, product",low,pdf,report_8.pdf_14
+"Product Review Analysis Report 9
+This report provides a structured analysis of a customer review for product ID 8288853439",positive,no_issue,"8288853439, analysis, product, report, review",low,pdf,report_9.pdf_0
+"The
+purpose is to evaluate user satisfaction, product performance, and overall reliability based on the
+provided feedback",positive,no_issue,"based, evaluate, feedback, overall, performance",low,pdf,report_9.pdf_1
+"Reviewer Information:
+Name: MDB
+Reviewer ID: A1AGQVCNRY2G8G
+Review Date: 12 11, 2013 (Unix: 1386720000)
+Review Summary:
+This Charger is awesome! First of all I wasn't expecting it until between 12/12 and 12/17, but it
+arrived on 12/11,So That was a plus for me! Second, I was kinda skeptical about purchasing it
+because it says that its for a Galaxy S and Blackberry so that can mean a lot of things! but I figured
+what the heck its cheap, so what can I loose! Well, I just got it today and decided to give it a try at
+work on my Galaxy S4, it charged from 80% to 100% in about 7 minutes!! Yes i timed it! and also
+the cord is long which is a plus for me! So if your looking for a fast charger with a long cord and not
+to mention a great price, this is the one!!update: not sure what the other reviewer meant by saying
+these are poor quality chargers, because I've had mine for a little over 2 weeks and it's still going
+strong!! Love this charger especially for the length!!
+Evaluation:
+The product received a rating of 5",positive,performance_issue,"11, 12, charger, galaxy, reviewer",low,pdf,report_9.pdf_2
+This suggests a highly positive user experience,positive,no_issue,"experience, highly, positive, suggests, user",low,pdf,report_9.pdf_4
+"The
+reviewer summarized their experience as ""Galaxy S4 Charger""",positive,performance_issue,"charger, experience, galaxy, reviewer, s4",low,pdf,report_9.pdf_5
+"Helpfulness feedback indicates 4
+out of 4 users found this review useful",positive,no_issue,"feedback, helpfulness, indicates, review, useful",low,pdf,report_9.pdf_6
+"Insights and Interpretation:
+Based on the review, the product demonstrates strong durability and user satisfaction",positive,no_issue,"based, demonstrates, durability, insights, interpretation",low,pdf,report_9.pdf_7
+"Key factors
+influencing the rating include usability, build quality, and value for money",positive,durability_issue,"build, factors, include, influencing, key",low,pdf,report_9.pdf_8
+"This feedback can be
+useful for both potential buyers and product developers in assessing product performance in
+real-world scenarios",positive,no_issue,"assessing, buyers, developers, feedback, product",low,pdf,report_9.pdf_9
